@@ -1,0 +1,222 @@
+[{
+  "_id": {
+    "$oid": "66807bba96ba1e6ec4f77b7a"
+  },
+  "firstname": "Hach1",
+  "lastname": "John",
+  "email": "testuser1@gmail.com",
+  "mobile": "0908915901",
+  "password": "",
+  "role": "1997",
+  "address": "01 Nguyen Dinh Chieu",
+  "ward": "Phường Mũi Né",
+  "district": "Thành phố Phan Thiết",
+  "city": "Tỉnh Bình Thuận",
+  "wishlist": [],
+  "isBlocked": false,
+  "cart": [],
+  "createdAt": {
+    "$date": "2024-07-20T21:25:14.079Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T14:44:07.535Z"
+  },
+  "__v": 0,
+  "message": "",
+  "coupon": null
+},
+{
+  "_id": {
+    "$oid": "66807bba96ba1e6ec4f77b7b"
+  },
+  "firstname": "Hach2",
+  "lastname": "John",
+  "email": "testuser2@gmail.com",
+  "mobile": "0908915902",
+  "password": "",
+  "role": "1997",
+  "address": "02 Nguyen Dinh Chieu",
+  "ward": "Xã Thanh Chăn",
+  "district": "Huyện Điện Biên",
+  "city": "Tỉnh Điện Biên",
+  "wishlist": [],
+  "isBlocked": false,
+  "cart": [],
+  "createdAt": {
+    "$date": "2024-07-20T21:25:14.079Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T06:08:41.315Z"
+  },
+  "__v": 0,
+  "message": "",
+  "coupon": {
+    "$oid": "669bc6d844e4d1850bbdb02c"
+  }
+},
+{
+  "_id": {
+    "$oid": "66807bba96ba1e6ec4f77b7c"
+  },
+  "firstname": "Hach4",
+  "lastname": "John",
+  "email": "testuser4@gmail.com",
+  "mobile": "0908915904",
+  "password": "",
+  "role": "1997",
+  "address": "04 Nguyen Dinh Chieu",
+  "ward": "Phường Phúc Tân",
+  "district": "Quận Hoàn Kiếm",
+  "city": "Thành phố Hà Nội",
+  "wishlist": [],
+  "isBlocked": false,
+  "cart": [],
+  "createdAt": {
+    "$date": "2024-07-20T21:25:14.079Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-20T14:47:48.724Z"
+  },
+  "__v": 0,
+  "message": "alo alo",
+  "coupon": {
+    "$oid": "669bc6d844e4d1850bbdb02c"
+  }
+},
+{
+  "_id": {
+    "$oid": "6682aab08725df464f7e5d23"
+  },
+  "firstname": "Admin",
+  "lastname": "User",
+  "email": "admin@gmail.com",
+  "mobile": "0908915000",
+  "password": "$2b$10$cKdjMlClRmVY2TJ5o.dRWuthLITqF7TfgT2oKj/aB7s0HwsFY1uGu",
+  "role": "1988",
+  "address": "198 Van Kiep",
+  "ward": "Phường 11",
+  "district": "Quận Bình Thạnh",
+  "city": "Thành phố Hồ Chí Minh",
+  "wishlist": [
+    {
+      "$oid": "6659fc69fa107dce04ae6386"
+    },
+    {
+      "$oid": "6659fc69fa107dce04ae6380"
+    },
+    {
+      "$oid": "6688ffdcb502af4e01f77d38"
+    },
+    {
+      "$oid": "6688ffdcb502af4e01f77d30"
+    },
+    {
+      "$oid": "669382c3985f3e9fd75124f3"
+    },
+    {
+      "$oid": "66a0be4064a64239fce8bec7"
+    }
+  ],
+  "isBlocked": false,
+  "cart": [],
+  "createdAt": {
+    "$date": "2024-07-24T13:10:08.047Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T14:48:28.299Z"
+  },
+  "__v": 0,
+  "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NjgyYWFiMDg3MjVkZjQ2NGY3ZTVkMjMiLCJpYXQiOjE3MjE5MTc0NjksImV4cCI6MTcyMTkzNTQ2OX0._d9rcH2w4mp6PLK9OvQWY3n8XVsHMvTOyQQlas_RjW8",
+  "coupon": null,
+  "message": "",
+  "passwordChangedAt": {
+    "$date": "2024-07-21T02:30:54.305Z"
+  },
+  "avatar": "https://res.cloudinary.com/dp5c0ceg8/image/upload/v1721751116/MERN-shop24h/o1m1rgtswlhzefuevsbh.jpg"
+},
+{
+  "_id": {
+    "$oid": "6694dce2f770d2f0f95cc931"
+  },
+  "firstname": "Hach5",
+  "lastname": "John",
+  "email": "testuser7@gmail.com",
+  "mobile": "0908915905",
+  "password": "$2b$10$1bBUgOKoliFunr9Pekfmq.gagGd2/wrX1zhmN0BEf13KJu9F/I3Ci",
+  "role": "1997",
+  "address": "05 Nguyen Dinh Chieu",
+  "ward": "Phường Phúc Tân",
+  "district": "Quận Hoàn Kiếm",
+  "city": "Thành phố Hà Nội",
+  "wishlist": [],
+  "isBlocked": false,
+  "cart": [],
+  "createdAt": {
+    "$date": "2024-07-22T08:25:06.490Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-22T04:54:28.623Z"
+  },
+  "__v": 0,
+  "message": "alo alo",
+  "coupon": {
+    "$oid": "669bc6d844e4d1850bbdb02c"
+  }
+},
+{
+  "_id": {
+    "$oid": "66a1c42f174b7fd7eb3f1f57"
+  },
+  "firstname": "To",
+  "lastname": "Van",
+  "email": "vanto8899@gmail.com",
+  "mobile": "0908915903",
+  "password": "$2b$10$2iU9zBzeaySZFqeXVmUoJ.s0ab6ZCOuICjY6OG4QKv//O3F.R.hMS",
+  "role": "1988",
+  "wishlist": [],
+  "isBlocked": false,
+  "cart": [],
+  "createdAt": {
+    "$date": "2024-07-25T03:19:11.905Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T13:32:39.100Z"
+  },
+  "__v": 0,
+  "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NmExYzQyZjE3NGI3ZmQ3ZWIzZjFmNTciLCJpYXQiOjE3MjE5MTQzMTksImV4cCI6MTcyMTkzMjMxOX0.5Cckp3t6C77Mvwf1ZbJLDVzfpyoj4UT-4dYiLbUadGs",
+  "address": "14 Hoang Kiem",
+  "city": "Thành phố Hà Nội",
+  "district": "Quận Hoàn Kiếm",
+  "ward": "Phường Phúc Tân",
+  "coupon": null,
+  "message": ""
+},
+{
+  "_id": {
+    "$oid": "66a25f8c195931e1288bcaf4"
+  },
+  "firstname": "Phan",
+  "lastname": "Van",
+  "email": "phanto70@gmail.com",
+  "mobile": "0908915909",
+  "password": "$2b$10$e1OhpH1nrThHtZ9cvxA.2.Utiq6XGK41/VgGWjLCzGXgxW44.1rAi",
+  "role": "1997",
+  "wishlist": [],
+  "isBlocked": false,
+  "cart": [],
+  "createdAt": {
+    "$date": "2024-07-25T14:22:04.567Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T14:34:21.619Z"
+  },
+  "__v": 0,
+  "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NmEyNWY4YzE5NTkzMWUxMjg4YmNhZjQiLCJpYXQiOjE3MjE5MTc0MzMsImV4cCI6MTcyMTkzNTQzM30.yeCusNMgonfrrRbdNEDMn9K4MOD9sy37u4uHmVYL4K4",
+  "passwordChangedAt": {
+    "$date": "2024-07-25T14:23:41.103Z"
+  },
+  "address": "123 Nguyen trai",
+  "city": "Thành phố Hà Nội",
+  "district": "Quận Ba Đình",
+  "ward": "Phường Trúc Bạch"
+}]

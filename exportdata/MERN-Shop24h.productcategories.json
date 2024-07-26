@@ -1,0 +1,184 @@
+[{
+  "_id": {
+    "$oid": "66933936f570cc97947f7f6b"
+  },
+  "title": "Laptop",
+  "brand": [
+    "Asus",
+    "Dell",
+    "Acer",
+    "Lenovo",
+    "HP",
+    "Macbook",
+    "Xiaomi"
+  ],
+  "image": "https://digital-world-2.myshopify.com/cdn/shop/files/laptop_300x.jpg?v=1613166811",
+  "createdAt": {
+    "$date": "2024-07-14T02:34:30.471Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-14T02:34:30.471Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66933936f570cc97947f7f69"
+  },
+  "title": "Smartphone",
+  "brand": [
+    "Apple",
+    "Samsung",
+    "LG",
+    "Asus",
+    "Nokia",
+    "BlackBery",
+    "Xiaomi"
+  ],
+  "image": "https://digital-world-2.myshopify.com/cdn/shop/files/mobile-devices_300x.jpg?v=1613166682",
+  "createdAt": {
+    "$date": "2024-07-14T02:34:30.471Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-14T02:34:30.471Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66933936f570cc97947f7f6e"
+  },
+  "title": "Accessories",
+  "brand": [
+    "Smatwacthes",
+    "Headphone",
+    "Bluetooth",
+    "Keyboard",
+    "Mouse",
+    "Cases",
+    "Cables"
+  ],
+  "image": "https://digital-world-2.myshopify.com/cdn/shop/files/headphone_8467ba67-70c7-4977-b57e-8847d56549c6_300x.jpg?v=1613166811",
+  "createdAt": {
+    "$date": "2024-07-14T02:34:30.471Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-14T02:34:30.471Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66933936f570cc97947f7f6a"
+  },
+  "title": "Tablet",
+  "brand": [
+    "Ipad",
+    "Samsung",
+    "Acer",
+    "Asus",
+    "Lenovo",
+    "Huawei",
+    "Xiaomi"
+  ],
+  "image": "https://digital-world-2.myshopify.com/cdn/shop/files/pc-1_300x.jpg?v=1613166682",
+  "createdAt": {
+    "$date": "2024-07-14T02:34:30.471Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-14T02:34:30.471Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66933936f570cc97947f7f6d"
+  },
+  "title": "Camera",
+  "brand": [
+    "Samsung",
+    "Acer",
+    "Asus",
+    "Lenovo",
+    "Huawei",
+    "Xiaomi",
+    "Sony"
+  ],
+  "image": "https://digital-world-2.myshopify.com/cdn/shop/files/headphone_8467ba67-70c7-4977-b57e-8847d56549c6_300x.jpg?v=1613166811",
+  "createdAt": {
+    "$date": "2024-07-14T02:34:30.471Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-14T02:34:30.471Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66933936f570cc97947f7f6c"
+  },
+  "title": "Speaker",
+  "brand": [
+    "Samsung",
+    "Acer",
+    "Asus",
+    "Lenovo",
+    "Huawei",
+    "Xiaomi",
+    "Oppo"
+  ],
+  "image": "https://digital-world-2.myshopify.com/cdn/shop/files/headphone_8467ba67-70c7-4977-b57e-8847d56549c6_300x.jpg?v=1613166811",
+  "createdAt": {
+    "$date": "2024-07-14T02:34:30.471Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-14T02:34:30.471Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66933936f570cc97947f7f70"
+  },
+  "title": "Printer",
+  "brand": [
+    "Samsung",
+    "Acer",
+    "Asus",
+    "Lenovo",
+    "Huawei",
+    "Canon",
+    "HP"
+  ],
+  "image": "https://digital-world-2.myshopify.com/cdn/shop/files/printer_300x.jpg?v=1613166810",
+  "createdAt": {
+    "$date": "2024-07-14T02:34:30.471Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-14T02:34:30.471Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66933936f570cc97947f7f6f"
+  },
+  "title": "Television",
+  "brand": [
+    "Apple",
+    "Samsung",
+    "LG",
+    "Asus",
+    "Nokia",
+    "BlackBery",
+    "Xiaomi"
+  ],
+  "image": "https://digital-world-2.myshopify.com/cdn/shop/files/television_300x.jpg?v=1613166810",
+  "createdAt": {
+    "$date": "2024-07-14T02:34:30.471Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-14T02:34:30.471Z"
+  },
+  "__v": 0
+}]

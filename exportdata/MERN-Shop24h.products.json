@@ -1,0 +1,2869 @@
+[{
+  "_id": {
+    "$oid": "66a0be4064a64239fce8bebc"
+  },
+  "title": "LG G5",
+  "slug": "lg-g535",
+  "description": [
+    "Technology: GSM / CDMA / HSPA / LTE",
+    "Dimensions: 149.4 x 73.9 x 7.7 mm",
+    "Weight: 159 g",
+    "Display: IPS LCD 5.3 inches",
+    "Resolution: 1440 x 2560",
+    "OS: Android OS, v6.0.1 (Marshmallow)",
+    "Chipset: Snapdragon 820",
+    "CPU: Quad-core",
+    "Internal: 32 GB, 4 GB RAM",
+    "Camera: Dual 16 MP (29mm, f/1.8) + 8 MP (12mm, f/2.4)"
+  ],
+  "brand": "LG",
+  "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/modular-type-1600x840_G5_M01C_1024x1024.jpg?v=1491404872",
+  "price": 15014900,
+  "category": "Smartphone",
+  "quantity": 27,
+  "sold": 89,
+  "images": [
+    "https://digital-world-2.myshopify.com/cdn/shop/products/modular-type-1600x840_G5_M01C_1024x1024.jpg?v=1491404872",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/lg-g5-3_1024x1024.jpg?v=1491404872",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/lg-g5-01_1024x1024.jpg?v=1491404872",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/lg-g5-1_1024x1024.jpg?v=1491404872",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/lg-g5-02_1024x1024.jpg?v=1491404872"
+  ],
+  "color": "maroon",
+  "totalRatings": 0,
+  "ratings": [],
+  "varriants": [],
+  "createdAt": {
+    "$date": "2024-07-24T08:41:36.237Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T14:44:04.059Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0be4064a64239fce8bebf"
+  },
+  "title": "GOOGLE PIXEL",
+  "slug": "google-pixel67",
+  "description": [
+    "Technology: GSM / CDMA / HSPA / EVDO / LTE",
+    "Dimensions: 143.8 x 69.5 x 8.5 mm",
+    "Weight: 143 g",
+    "Display: AMOLED 5.0 inches",
+    "Resolution: 1080 x 1920",
+    "OS: Android OS, v7.1 (Nougat)",
+    "Chipset: Snapdragon 821",
+    "CPU: Quad-core",
+    "Internal: 32/128 GB, 4 GB RAM",
+    "Camera: 12.3 MP, f/2.0 - 8 MP, f/2.4"
+  ],
+  "brand": "GOOGLE",
+  "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/u3_1024x1024.jpg?v=1491404903",
+  "price": 21232087,
+  "category": "Smartphone",
+  "quantity": 101,
+  "sold": 50,
+  "images": [
+    "https://digital-world-2.myshopify.com/cdn/shop/products/u3_1024x1024.jpg?v=1491404903",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/u2_1024x1024.jpg?v=1491404903",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/google-pixel-04_1024x1024.jpg?v=1491404903",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/google-pixel-02_1024x1024.jpg?v=1491404903",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/google-pixel-03_1024x1024.jpg?v=1491404903",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/gsmarena_020_1024x1024.jpg?v=1491404903",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/gsmarena_023_1024x1024.jpg?v=1491404903"
+  ],
+  "color": "QUITE BLACK",
+  "totalRatings": 0,
+  "ratings": [],
+  "varriants": [],
+  "createdAt": {
+    "$date": "2024-07-24T08:41:36.237Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T14:44:04.062Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0be4064a64239fce8bec2"
+  },
+  "title": "SAMSUNG GALAXY TAB S 8.4 LTE",
+  "slug": "samsung-galaxy-tab-s-8.4-lte99",
+  "description": [
+    "Technology: GSM / HSPA / LTE",
+    "Dimensions: 212.8 x 125.6 x 6.6 mm",
+    "Weight: 298 g",
+    "Display: Super AMOLED 8.4 inches",
+    "Resolution: 1600 x 2560",
+    "OS: Android OS, v4.4.2 (KitKat)",
+    "Chipset: Snapdragon 800",
+    "CPU: Quad-core 2.3 GHz",
+    "Internal: 16/32 GB, 3 GB RAM",
+    "Camera: 8 MP - 2.1 MP"
+  ],
+  "brand": "SAMSUNG",
+  "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/ss8_1024x1024.jpg?v=1491404867",
+  "price": 14225473,
+  "category": "Tablet",
+  "quantity": 4,
+  "sold": 33,
+  "images": [
+    "https://digital-world-2.myshopify.com/cdn/shop/products/ss8_1024x1024.jpg?v=1491404867",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/samsung-galaxy-tab-s-84-1_1024x1024.jpg?v=1491404867",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/samsung-galaxy-tab-s-84-3_1024x1024.jpg?v=1491404867"
+  ],
+  "color": "DAZZLING WHITE",
+  "totalRatings": 0,
+  "ratings": [],
+  "varriants": [],
+  "createdAt": {
+    "$date": "2024-07-24T08:41:36.237Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T14:44:04.063Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0be4064a64239fce8bec1"
+  },
+  "title": "SONY XPERIA Z4 TABLET LTE",
+  "slug": "sony-xperia-z4-tablet-lte72",
+  "description": [
+    "Technology: GSM / HSPA / LTE",
+    "Dimensions: 254 x 167 x 6.1 mm",
+    "Weight: 393 g",
+    "Display: IPS LCD 10.1 inches",
+    "Resolution: 2560 x 1600",
+    "OS: Android OS, v5.0 (Lollipop)",
+    "Chipset: Snapdragon 810",
+    "CPU: Octa-core",
+    "Internal: 32 GB, 3 GB RAM",
+    "Camera: 8.1 MP - 5.1 MP"
+  ],
+  "brand": "SONY",
+  "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/Untitled-11_1024x1024.jpg?v=1491404927",
+  "price": 17788840,
+  "category": "Tablet",
+  "quantity": 128,
+  "sold": 11,
+  "images": [
+    "https://digital-world-2.myshopify.com/cdn/shop/products/Untitled-11_1024x1024.jpg?v=1491404927",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/sony-xperia-z4-tablet-1_1024x1024.jpg?v=1491404927",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/sony-xperia-z4-tablet-1_1221094a-62fa-48fe-92bf-24290926cc56_1024x1024.jpg?v=1491404927",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/sony-xperia-z4-tablet-2_1024x1024.jpg?v=1491404927",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/sony-xperia-z4-tablet-2_dbebeed1-de5c-4bff-9c53-8aa708c32ca5_1024x1024.jpg?v=1491404927"
+  ],
+  "color": "BLACK",
+  "totalRatings": 0,
+  "ratings": [],
+  "varriants": [],
+  "createdAt": {
+    "$date": "2024-07-24T08:41:36.237Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T08:41:36.237Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0be4064a64239fce8bec3"
+  },
+  "title": "LG G PAD III 10.1 FHD",
+  "slug": "lg-g-pad-iii-10.1-fhd75",
+  "description": [
+    "Technology: GSM / HSPA / LTE",
+    "Dimensions: 256.2 x 167.9 x 6.7 mm",
+    "Weight: 510 g",
+    "Display: IPS LCD 10.1 inches",
+    "Resolution: 1200 x 1920",
+    "OS: Android OS, v6.0.1 (Marshmallow)",
+    "Chipset: Snapdragon 617",
+    "CPU: Octa-core",
+    "Internal: 32 GB, 2 GB RAM",
+    "Camera: 5 MP - 5 MP"
+  ],
+  "brand": "LG",
+  "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/Untitled-2_1024x1024.jpg?v=1491404930",
+  "price": 9390675,
+  "category": "Tablet",
+  "quantity": 148,
+  "sold": 68,
+  "images": [
+    "https://digital-world-2.myshopify.com/cdn/shop/products/Untitled-2_1024x1024.jpg?v=1491404930",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/Untitled-3_1024x1024.jpg?v=1491404930"
+  ],
+  "color": "navy",
+  "totalRatings": 0,
+  "ratings": [],
+  "varriants": [],
+  "createdAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0be4064a64239fce8bec4"
+  },
+  "title": "LENOVO YOGA TAB 3 PLUS",
+  "slug": "lenovo-yoga-tab-3-plus83",
+  "description": [
+    "Technology: GSM / HSPA / LTE",
+    "Dimensions: 247 x 179 mm",
+    "Weight: 637 g",
+    "Display: IPS LCD 10.1 inches",
+    "Resolution: 1600 x 2560",
+    "OS: Android OS, v6.0.1 (Marshmallow)",
+    "Chipset: Snapdragon 625",
+    "CPU: Octa-core",
+    "Internal: 32 GB, 3 GB RAM",
+    "Camera: 13 MP - 5 MP"
+  ],
+  "brand": "LENOVO",
+  "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/ss3_1024x1024.jpg?v=1491404819",
+  "price": 12699043,
+  "category": "Tablet",
+  "quantity": 41,
+  "sold": 97,
+  "images": [
+    "https://digital-world-2.myshopify.com/cdn/shop/products/ss3_1024x1024.jpg?v=1491404819",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/lenovo-yoga-tab3-plus_1024x1024.jpg?v=1491404819",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/lenovo-yoga-tab3-plus1_1024x1024.jpg?v=1491404819",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/lenovo-yoga-tab3-plus2_1024x1024.jpg?v=1491404819"
+  ],
+  "color": "green",
+  "totalRatings": 4,
+  "ratings": [
+    {
+      "star": 5,
+      "postedBy": {
+        "$oid": "669e4d2fcb42f21cca1a17ce"
+      },
+      "comment": "Good",
+      "updatedAt": {
+        "$date": "2024-07-24T08:44:43.599Z"
+      },
+      "_id": {
+        "$oid": "66a0befb64a64239fce8c008"
+      }
+    },
+    {
+      "star": 3,
+      "postedBy": {
+        "$oid": "6682aab08725df464f7e5d23"
+      },
+      "comment": "test",
+      "updatedAt": {
+        "$date": "2024-07-25T14:12:23.556Z"
+      },
+      "_id": {
+        "$oid": "66a25d47195931e1288bca29"
+      }
+    }
+  ],
+  "varriants": [],
+  "createdAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T14:12:23.594Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0be4064a64239fce8bec5"
+  },
+  "title": "HUAWEI MEDIAPAD T1 7.0",
+  "slug": "huawei-mediapad-t1-7.012",
+  "description": [
+    "Technology: GSM / HSPA",
+    "Dimensions: 191.8 x 107 x 8.5 mm",
+    "Weight: 2783 g",
+    "Display: IPS LCD 7.0 inches",
+    "Resolution: 600 x 1024",
+    "OS: Android OS, v4.4.2 (KitKat)",
+    "Chipset: Spreadtrum SC7731G",
+    "CPU: Quad-core 1.2 GHz",
+    "Internal: 8 GB, 1 GB RAM",
+    "Camera: 2 MP"
+  ],
+  "brand": "HUAWEI",
+  "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/ss4_1024x1024.jpg?v=1491404838",
+  "price": 2519449,
+  "category": "Tablet",
+  "quantity": 9,
+  "sold": 28,
+  "images": [
+    "https://digital-world-2.myshopify.com/cdn/shop/products/ss4_1024x1024.jpg?v=1491404838",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/huawei-mediapad-t1-70-1_1024x1024.jpg?v=1491404838",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/huawei-mediapad-t1-70-2_1024x1024.jpg?v=1491404838",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/huawei-mediapad-t1-70-11_1024x1024.jpg?v=1491404838"
+  ],
+  "color": "blue",
+  "totalRatings": 0,
+  "ratings": [],
+  "varriants": [],
+  "createdAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0be4064a64239fce8bec6"
+  },
+  "title": "ASUS ZENPAD 3 8.0 Z581KL",
+  "slug": "asus-zenpad-3-8.0-z581kl6",
+  "description": [
+    "Technology: GSM / HSPA / LTE",
+    "Dimensions: 205.4 x 136.4 x 7.6 mm",
+    "Weight: 320 g",
+    "Display: IPS LCD 7.9 inches",
+    "Resolution: 1536 x 2048",
+    "OS: Android OS, v6.0 (Marshmallow)",
+    "Chipset: Snapdragon 650",
+    "CPU: Hexa-core",
+    "Internal: 32 GB, 4 GB RAM",
+    "Camera: 8 MP - 2 MP"
+  ],
+  "brand": "ASUS",
+  "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/ss9_1024x1024.jpg?v=1491404859",
+  "price": 7125715,
+  "category": "Tablet",
+  "quantity": 46,
+  "sold": 40,
+  "images": [
+    "https://digital-world-2.myshopify.com/cdn/shop/products/ss9_1024x1024.jpg?v=1491404859",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/asus-zenpad-3-80-z581kl-1_1024x1024.jpg?v=1491404859",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/asus-zenpad-3-80-z581kl-2_1024x1024.jpg?v=1491404859"
+  ],
+  "color": "green",
+  "totalRatings": 5,
+  "ratings": [
+    {
+      "star": 5,
+      "postedBy": {
+        "$oid": "669e4d2fcb42f21cca1a17ce"
+      },
+      "comment": "perfect!",
+      "updatedAt": {
+        "$date": "2024-07-24T08:43:43.217Z"
+      },
+      "_id": {
+        "$oid": "66a0bebf64a64239fce8bfab"
+      }
+    }
+  ],
+  "varriants": [],
+  "createdAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T03:45:54.539Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0be4064a64239fce8bec7"
+  },
+  "title": "APPLE IPAD PRO",
+  "slug": "apple-ipad-pro33",
+  "description": [
+    "Technology: GSM / CDMA / HSPA / EVDO / LTE",
+    "Dimensions: 305.7 x 220.6 x 6.9 mm",
+    "Weight: 713 g",
+    "Display: LED-backlit IPS LCD 12.9 inches",
+    "Resolution: 2048 x 2732",
+    "OS: iOS 9",
+    "Chipset: Apple A9X",
+    "CPU: Dual-core 2.26 GHz",
+    "Internal: 32/128/256 GB, 4 GB RAM",
+    "Camera: 8 MP - 1.2 MP"
+  ],
+  "brand": "APPLE",
+  "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/ss5_1024x1024.jpg?v=1491404844",
+  "price": 35628577,
+  "category": "Tablet",
+  "quantity": 84,
+  "sold": 97,
+  "images": [
+    "https://digital-world-2.myshopify.com/cdn/shop/products/ss5_1024x1024.jpg?v=1491404844",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/apple-ipad-pro-2_1024x1024.jpg?v=1491404844",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/apple-ipad-pro-3_1024x1024.jpg?v=1491404844",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/apple-ipad-pro-4_1024x1024.jpg?v=1491404844",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/apple-ipad-pro-5_1024x1024.jpg?v=1491404844"
+  ],
+  "color": "SPACE GRAY",
+  "totalRatings": 0,
+  "ratings": [],
+  "varriants": [],
+  "createdAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0be4064a64239fce8bec8"
+  },
+  "title": "APPLE IPAD AIR 2",
+  "slug": "apple-ipad-air-258",
+  "description": [
+    "Technology: GSM / CDMA / HSPA / EVDO / LTE",
+    "Dimensions: 240 x 169.5 x 6.1 mm",
+    "Weight: 437 g",
+    "Display: LED-backlit IPS LCD 9.7 inches",
+    "Resolution: 1536 x 2048",
+    "OS: iOS 8.1",
+    "Chipset: Apple A8X",
+    "CPU: Triple-core 1.5 GHz Typhoon",
+    "Internal: 16/32/64/128 GB, 2 GB RAM",
+    "Camera: 8 MP, f/2.4 - 1.2 MP, f/2.2"
+  ],
+  "brand": "APPLE",
+  "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/SS7_1_1024x1024.jpg?v=1491404862",
+  "price": 9136185,
+  "category": "Tablet",
+  "quantity": 110,
+  "sold": 55,
+  "images": [
+    "https://digital-world-2.myshopify.com/cdn/shop/products/SS7_1_1024x1024.jpg?v=1491404862",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/SS7_1024x1024.jpg?v=1491404862",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/apple-ipad-air-2-3_1024x1024.jpg?v=1491404862",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/apple-ipad-air-2-4_1024x1024.jpg?v=1491404862"
+  ],
+  "color": "SPACE GRAY",
+  "totalRatings": 0,
+  "ratings": [],
+  "varriants": [],
+  "createdAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0be4064a64239fce8bec9"
+  },
+  "title": "LENOVO IDEAPAD 110",
+  "slug": "lenovo-ideapad-11038",
+  "description": [
+    "Processor: Intel, Core i7 Skylake",
+    "Memory: DDR4 - 8 GB",
+    "Display: 15.6\" 1366 x 768",
+    "Graphic: AMD Radeon R5 M430",
+    "Storage: HDD, 1 TB",
+    "Camera: 0.3 MP",
+    "Networking: 802.11 b/g/n",
+    "Battery: Li-Ion 4 cell",
+    "Dimensions: 377 x 264 x 22.9 cmM",
+    "Weight: 2.3 kg"
+  ],
+  "brand": "LENOVO",
+  "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z1_877559ca-7315-44b0-9f7f-f393bd0808bd_1024x1024.jpg?v=1491404790",
+  "price": 19061289,
+  "category": "Laptop",
+  "quantity": 133,
+  "sold": 65,
+  "images": [
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z1_877559ca-7315-44b0-9f7f-f393bd0808bd_1024x1024.jpg?v=1491404790",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z2_6f644814-23bf-4439-80ff-0b5d50baf196_1024x1024.jpg?v=1491404790",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z3_76a134cf-ab12-45ae-bf1d-54a1ec20982d_1024x1024.jpg?v=1491404790"
+  ],
+  "color": "navy",
+  "totalRatings": 0,
+  "ratings": [],
+  "varriants": [],
+  "createdAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0be4064a64239fce8beca"
+  },
+  "title": "HP PROBOOK 450",
+  "slug": "hp-probook-45061",
+  "description": [
+    "Processor: Intel, Core i5 Skylake",
+    "Memory: DDR4 - 4 GB",
+    "Display: 15.6\" 1920 x 1080",
+    "Graphic: Intel® HD Graphics 620",
+    "Storage: HDD, 500 GB",
+    "Camera: 1 MP",
+    "Networking: 802.11 b/g/n",
+    "Battery: Li-Ion 4 cell",
+    "Dimensions: 382 x 263 x 24.4 cmM",
+    "Weight: 2 kg"
+  ],
+  "brand": "HP",
+  "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z1_2_6dbdaadc-bd0c-454b-b4c1-395b60a2e2a7_1024x1024.jpg?v=1491404782",
+  "price": 21606187,
+  "category": "Laptop",
+  "quantity": 64,
+  "sold": 89,
+  "images": [
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z1_2_6dbdaadc-bd0c-454b-b4c1-395b60a2e2a7_1024x1024.jpg?v=1491404782",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z2_2_b21a3aa8-86ed-4338-985d-0bfca8fea6e0_1024x1024.jpg?v=1491404782",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z3_2_86e4ff89-2434-4fe7-b758-49d789152900_1024x1024.jpg?v=1491404782"
+  ],
+  "color": "black",
+  "totalRatings": 0,
+  "ratings": [],
+  "varriants": [],
+  "createdAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0be4064a64239fce8becb"
+  },
+  "title": "HP PAVILION 15 AU072TX",
+  "slug": "hp-pavilion-15-au072tx82",
+  "description": [
+    "Processor: Intel, Core i7 Skylake",
+    "Memory: DDR4 4 GB",
+    "Display: 15.6\" - 1366x768",
+    "Graphic: NVIDIA® GeForce® 940M, 4 GB",
+    "Storage: HDD, 1 TB",
+    "Camera: 1 MP",
+    "Networking: 802.11 b/g/n",
+    "Battery: Li-Ion 2 cell",
+    "Dimensions: 383 x 243 x 22.5 cmM",
+    "Weight: 2 kg"
+  ],
+  "brand": "HP",
+  "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/x2_1024x1024.jpg?v=1491404795",
+  "price": 20333738,
+  "category": "Laptop",
+  "quantity": 99,
+  "sold": 86,
+  "images": [
+    "https://digital-world-2.myshopify.com/cdn/shop/products/x2_1024x1024.jpg?v=1491404795",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/x3_1024x1024.jpg?v=1491404795",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/x1_1024x1024.jpg?v=1491404795"
+  ],
+  "color": "red",
+  "totalRatings": 0,
+  "ratings": [],
+  "varriants": [],
+  "createdAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0be4064a64239fce8becc"
+  },
+  "title": "DELL INSPIRON 7460",
+  "slug": "dell-inspiron-746060",
+  "description": [
+    "Processor: Core i5 Kabylake 2.50GHz",
+    "Memory: DDR4 4GB 2400MHz",
+    "Display: 14.0\" 1920x1080",
+    "Graphic: NVIDIA GeForce 940MX, 2 GB",
+    "Storage: HDD: 500GB + SSD: 128GB",
+    "Camera: 1 M",
+    "Networking: 802.11 b/g/n",
+    "Battery: Li-Ion 3 cell",
+    "Dimensions: 323.3 x 227.1 x 18.95 cmM",
+    "Weight: 1.7 kg"
+  ],
+  "brand": "DELL",
+  "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z1_2_8ad649f4-de63-464c-a7d1-7573c1b53a2d_1024x1024.jpg?v=1491404804",
+  "price": 22878636,
+  "category": "Laptop",
+  "quantity": 91,
+  "sold": 12,
+  "images": [
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z1_2_8ad649f4-de63-464c-a7d1-7573c1b53a2d_1024x1024.jpg?v=1491404804",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z2_2_eda0eb59-ee79-4c50-b724-c9ed562d180b_1024x1024.jpg?v=1491404804",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z3_2_0267f8b8-d3ca-475f-a6f2-0a999f863a0a_1024x1024.jpg?v=1491404804"
+  ],
+  "color": "olive",
+  "totalRatings": 0,
+  "ratings": [],
+  "varriants": [],
+  "createdAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0be4064a64239fce8becd"
+  },
+  "title": "ASUS ROG G752VM",
+  "slug": "asus-rog-g752vm58",
+  "description": [
+    "Processor: Intel® Pentium® N3700 Processor",
+    "Memory: DDR3 2 GB",
+    "Display: 14.0\" 1920x1080",
+    "Graphic: Integrated Intel® HD Graphics",
+    "Storage: 500GB HDD 5400",
+    "Camera: VGA Web Camera",
+    "Networking: 802.11 b/g/n",
+    "Battery: 2Cells 32 Whrs",
+    "Dimensions: 339 x 235 x 21.9 cmM",
+    "Weight: 1.65 kg"
+  ],
+  "brand": "ASUS",
+  "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z1_1_33133681-0515-48fa-a6ee-fce4fc68afea_1024x1024.jpg?v=1491404807",
+  "price": 7609246,
+  "category": "Laptop",
+  "quantity": 20,
+  "sold": 96,
+  "images": [
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z1_1_33133681-0515-48fa-a6ee-fce4fc68afea_1024x1024.jpg?v=1491404807",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z2_1_f7b95ca1-d4cf-4b52-a22a-481db6b06c82_1024x1024.jpg?v=1491404807",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z3_1_59dcf671-2402-42e8-9c71-d1a262eca464_1024x1024.jpg?v=1491404807"
+  ],
+  "color": "RED",
+  "totalRatings": 0,
+  "ratings": [],
+  "varriants": [],
+  "createdAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0be4064a64239fce8bece"
+  },
+  "title": "APPLE MACBOOK PRO 13\"",
+  "slug": "apple-macbook-pro-13\"39",
+  "description": [
+    "Processor: 2.0GHz Core i5",
+    "Memory: DDR4 8GB 1866MHz",
+    "Display: 13.3\" Retina (2560 x 1600 pixels)",
+    "Graphic: Intel Iris Graphics 540",
+    "Storage: SSD: 256GB",
+    "Camera: HD Camera",
+    "Networking: 802.11 a/b/g/n/ac",
+    "Battery: up to 10h",
+    "Dimensions: 212,4 x 304.1 x 14,9 cmM",
+    "Weight: 1.37 kg"
+  ],
+  "brand": "APPLE",
+  "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z6_1_1024x1024.jpg?v=1491404800",
+  "price": 38148027,
+  "category": "Laptop",
+  "quantity": 13,
+  "sold": 87,
+  "images": [
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z6_1_1024x1024.jpg?v=1491404800",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z4_1_4c7eeac9-df0b-4725-8a45-cb6c87b42eba_1024x1024.jpg?v=1491404800",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z5_1_1024x1024.jpg?v=1491404800"
+  ],
+  "color": "navy",
+  "totalRatings": 0,
+  "ratings": [],
+  "varriants": [],
+  "createdAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0be4064a64239fce8becf"
+  },
+  "title": "APPLE MACBOOK AIR",
+  "slug": "apple-macbook-air45",
+  "description": [
+    "Processor: Core i5 Broadwelle",
+    "Memory: DDR3L - 8 GB",
+    "Display: 13.3\" 1440 x 900",
+    "Graphic: Intel HD Graphics 6000",
+    "Storage: SSD, 128 GB",
+    "Camera: 1.3 MP",
+    "Networking: 802.11 b/g/n",
+    "Battery: Lithium- polymer",
+    "Dimensions: 325 x 227 x 17 cmM",
+    "Weight: 1.35 kg"
+  ],
+  "brand": "APPLE",
+  "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z1_4_1024x1024.jpg?v=1491404771",
+  "price": 30284291,
+  "category": "Laptop",
+  "quantity": 33,
+  "sold": 55,
+  "images": [
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z1_4_1024x1024.jpg?v=1491404771",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z2_4_1024x1024.jpg?v=1491404771",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z3_4_1024x1024.jpg?v=1491404771"
+  ],
+  "color": "gray",
+  "totalRatings": 0,
+  "ratings": [],
+  "varriants": [],
+  "createdAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0be4064a64239fce8bed0"
+  },
+  "title": "ACER ASPIRE E5",
+  "slug": "acer-aspire-e555",
+  "description": [
+    "Processor: Intel, Core i5 Skylake",
+    "Memory: DDR4 - 4 GB",
+    "Display: 15.6\" 1920 x 1080",
+    "Graphic: NVIDIA® GeForce® 940M",
+    "Storage: HDD: 500GB + SSD: 8GB",
+    "Camera: 1 MP",
+    "Networking: 802.11 b/g/n",
+    "Battery: Li-Ion 4 cell",
+    "Dimensions: 318 x 259 x 30.4 cmM",
+    "Weight: 2.23 kg"
+  ],
+  "brand": "ACER",
+  "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z1_1_00d0ce5d-e30b-4a9a-bffd-357614f67b8d_1024x1024.jpg?v=1491404787",
+  "price": 15752921,
+  "category": "Laptop",
+  "quantity": 76,
+  "sold": 6,
+  "images": [
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z1_1_00d0ce5d-e30b-4a9a-bffd-357614f67b8d_1024x1024.jpg?v=1491404787",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z2_1_bac0625f-a20a-431b-b73b-0ca2ec0e1495_1024x1024.jpg?v=1491404787",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z3_1_ab603453-7471-477c-a63d-987e838aca3b_1024x1024.jpg?v=1491404787"
+  ],
+  "color": "green",
+  "totalRatings": 0,
+  "ratings": [],
+  "varriants": [],
+  "createdAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0be4064a64239fce8bed1"
+  },
+  "title": "USB SANDISK",
+  "slug": "usb-sandisk19",
+  "description": [
+    "Read Speed: up to 130 MB/s",
+    "Generation: USB 3.0",
+    "Dimensions: 13.21 mm x 42.42 mm x 6.60 mm",
+    "Operating temperature: 32° - 113°",
+    "Storage temperature: 0° - 158°",
+    "5-year limited warranty"
+  ],
+  "brand": "USB",
+  "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z4_1b6e3a93-aa84-4a15-8324-deab9b1d4711_1024x1024.jpg?v=1491404811",
+  "price": 177888,
+  "category": "Camera",
+  "quantity": 112,
+  "sold": 34,
+  "images": [
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z4_1b6e3a93-aa84-4a15-8324-deab9b1d4711_1024x1024.jpg?v=1491404811",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z5_1024x1024.jpg?v=1491404811"
+  ],
+  "color": "cyan",
+  "totalRatings": 0,
+  "ratings": [],
+  "varriants": [],
+  "createdAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0be4064a64239fce8bed2"
+  },
+  "title": "SENNHEISER EZX 80",
+  "slug": "sennheiser-ezx-8089",
+  "description": [
+    "Long talk time – Up to 10 hours",
+    "Tells you how it’s doing",
+    "For calls and music",
+    "Perfect iPhone partner",
+    "Charging is quick",
+    "Connects to two devices",
+    "USB charging cable",
+    "Clear as HD",
+    "Easy call control",
+    "Always in control",
+    "Peace of mind"
+  ],
+  "brand": "SENNHEISER",
+  "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z1_2_1024x1024.jpg?v=1491404910",
+  "price": 1755980,
+  "category": "Camera",
+  "quantity": 91,
+  "sold": 41,
+  "images": [],
+  "color": "black",
+  "totalRatings": 0,
+  "ratings": [],
+  "varriants": [],
+  "createdAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0be4064a64239fce8bed4"
+  },
+  "title": "MOTOROLA MOTO 360 (2ND GEN)",
+  "slug": "motorola-moto-360-(2nd-gen)12",
+  "description": [
+    "Technology: No cellular connectivity",
+    "Dimensions: 46 x 46 x 11.4 mm",
+    "Weight: IPS LCD g",
+    "Display: AMOLED 1.56 inches",
+    "Resolution: 360 x 330",
+    "OS: Android Wear OS",
+    "Chipset: Snapdragon 400",
+    "CPU: Quad-core 1.2 GHz Cortex-A7",
+    "Internal: 4 GB, 512 MB RAM",
+    "Camera: No"
+  ],
+  "brand": "MOTOROLA",
+  "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/Untitled-189_1024x1024.jpg?v=1491404918",
+  "price": 8906890,
+  "category": "Camera",
+  "quantity": 56,
+  "sold": 29,
+  "images": [
+    "https://digital-world-2.myshopify.com/cdn/shop/products/Untitled-189_1024x1024.jpg?v=1491404918",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/motorola-moto-360-2015-1_1024x1024.jpg?v=1491404918",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/motorola-moto-360-2015-2_1024x1024.jpg?v=1491404918",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/motorola-moto-360-2015-3_1024x1024.jpg?v=1491404918",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/motorola-moto-360-2015-4_1024x1024.jpg?v=1491404918"
+  ],
+  "color": "BLACK LEATHER",
+  "totalRatings": 0,
+  "ratings": [],
+  "varriants": [],
+  "createdAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0be4064a64239fce8bee6"
+  },
+  "title": "LOGITECH MX ANYWHERE 2",
+  "slug": "logitech-mx-anywhere-276",
+  "description": [
+    "Technology: USB port or Bluetooth",
+    "Dimensions: 61.6 x 100.3 x 1.4 mm",
+    "Weight: 106 g",
+    "Battery life: up to 2 month",
+    "Battery: rechargeable Li-Po (500 mAh)",
+    "Wireless distance: 32 ft (10 m)",
+    "Wireless technology: 2.4GHz",
+    "Sensor: Darkfield Laser sensor",
+    "1-Year Limited Hardware Warranty",
+    "Requirements: Windows® 7 to latest"
+  ],
+  "brand": "LOGITECH",
+  "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z1_377a4aa6-df39-466b-8234-d7c2f6f4ca1a_1024x1024.jpg?v=1491404814",
+  "price": 457827,
+  "category": "Speaker",
+  "quantity": 19,
+  "sold": 64,
+  "images": [
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z3_5229b270-7b1c-4b40-8100-204f96c43f88_1024x1024.jpg?v=1491404814",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z1_377a4aa6-df39-466b-8234-d7c2f6f4ca1a_1024x1024.jpg?v=1491404814",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z2_2ca9a51c-540d-4bbc-8be1-88dc83ccefa1_1024x1024.jpg?v=1491404814"
+  ],
+  "color": "BLACK",
+  "totalRatings": 0,
+  "ratings": [],
+  "varriants": [],
+  "createdAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0be4064a64239fce8bed3"
+  },
+  "title": "SAMSUNG GEAR VR",
+  "slug": "samsung-gear-vr35",
+  "description": [
+    "Connections: USB 2.0, USB 3.0",
+    "Controls: Onboard touchpad, Bluetooth controllers",
+    "Hardware Platform: Android",
+    "Headset Type: Mobile",
+    "Resolution: 2,560 by 1,440",
+    "Sensors: Motion, presence",
+    "Platform: Samsung Gear VR powered by Oculus",
+    "Supported: Note5, Note7, S6, S6 Edge, S6 Edge+, S7, S7 Edge"
+  ],
+  "brand": "SAMSUNG",
+  "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z1_1_1024x1024.jpg?v=1491404913",
+  "price": 2519449,
+  "category": "Camera",
+  "quantity": 117,
+  "sold": 71,
+  "images": [
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z1_1_1024x1024.jpg?v=1491404913",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z2_1_1024x1024.jpg?v=1491404913",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z3_1_1024x1024.jpg?v=1491404913",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z4_1_1024x1024.jpg?v=1491404913"
+  ],
+  "color": "red",
+  "totalRatings": 0,
+  "ratings": [],
+  "varriants": [],
+  "createdAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0be4064a64239fce8bee7"
+  },
+  "title": "JBL CHARGE 3",
+  "slug": "jbl-charge-33",
+  "description": [
+    "Battery type: Lithium-ion Polymer (22.2Wh)",
+    "Music playing time: up to 20h",
+    "Rated power: 2 x 10W",
+    "USB charge out: 5V / 2A",
+    "Frequency: 65Hz-20kHz",
+    "Transducer size: 2 x 50",
+    "Battery charge time: 4.5 hrs",
+    "Weight: 800g",
+    "Power supply: 5V / 2.3A"
+  ],
+  "brand": "JBL",
+  "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z2_2_1024x1024.jpg?v=1491404907",
+  "price": 3434340,
+  "category": "Speaker",
+  "quantity": 7,
+  "sold": 19,
+  "images": [
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z2_2_1024x1024.jpg?v=1491404907",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z3_2_1024x1024.jpg?v=1491404907",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z4_2_1024x1024.jpg?v=1491404907"
+  ],
+  "color": "BLACK",
+  "totalRatings": 4,
+  "ratings": [
+    {
+      "star": 4,
+      "postedBy": {
+        "$oid": "669e4d2fcb42f21cca1a17ce"
+      },
+      "comment": "best",
+      "updatedAt": {
+        "$date": "2024-07-24T09:02:07.542Z"
+      },
+      "_id": {
+        "$oid": "66a0c30f64a64239fce8c2f3"
+      }
+    }
+  ],
+  "varriants": [],
+  "createdAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T09:02:07.559Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0be4064a64239fce8bee8"
+  },
+  "title": "APPLE WATCH EDITION SERIES 2",
+  "slug": "apple-watch-edition-series-256",
+  "description": [
+    "Technology: No cellular connectivity",
+    "Dimensions: 42.6 x 36.5 x 11.4 mm",
+    "Weight: 45.6 g",
+    "Display: AMOLED 1.6 inches",
+    "Resolution: 390 x 312",
+    "OS: watchOS 3.0",
+    "Chipset: Apple S2",
+    "CPU: Dual-core",
+    "Internal: No",
+    "Camera: No"
+  ],
+  "brand": "APPLE",
+  "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/Untitled-123_1024x1024.jpg?v=1491404922",
+  "price": 9390675,
+  "category": "Speaker",
+  "quantity": 78,
+  "sold": 87,
+  "images": [
+    "https://digital-world-2.myshopify.com/cdn/shop/products/Untitled-123_1024x1024.jpg?v=1491404922",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/apple-watch2-edition-42mm2_1024x1024.jpg?v=1491404922"
+  ],
+  "color": "WHITE",
+  "totalRatings": 0,
+  "ratings": [],
+  "varriants": [],
+  "createdAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0be4064a64239fce8bed5"
+  },
+  "title": "LOGITECH WIRELESS KEYBOARD MK240 NANO",
+  "slug": "logitech-wireless-keyboard-mk240-nano50",
+  "description": [
+    "Dimensions: 139mm x 288mm x 21mm",
+    "Weight: 312 g",
+    "36-month battery life",
+    "Adjustable keyboard height",
+    "Spill-resistant design",
+    "2.4GHz wireless (10 meters)",
+    "Nano USB receiver",
+    "3-year Limited hardware warranty"
+  ],
+  "brand": "LOGITECH",
+  "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z6_1024x1024.jpg?v=1491404809",
+  "price": 619428,
+  "category": "Camera",
+  "quantity": 141,
+  "sold": 92,
+  "images": [],
+  "color": "black",
+  "totalRatings": 0,
+  "ratings": [],
+  "varriants": [],
+  "createdAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0be4064a64239fce8bee9"
+  },
+  "title": "SAMSUNG GEAR VR",
+  "slug": "samsung-gear-vr51",
+  "description": [
+    "Connections: USB 2.0, USB 3.0",
+    "Controls: Onboard touchpad, Bluetooth controllers",
+    "Hardware Platform: Android",
+    "Headset Type: Mobile",
+    "Resolution: 2,560 by 1,440",
+    "Sensors: Motion, presence",
+    "Platform: Samsung Gear VR powered by Oculus",
+    "Supported: Note5, Note7, S6, S6 Edge, S6 Edge+, S7, S7 Edge"
+  ],
+  "brand": "SAMSUNG",
+  "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z1_1_1024x1024.jpg?v=1491404913",
+  "price": 2519449,
+  "category": "Accessories",
+  "quantity": 107,
+  "sold": 81,
+  "images": [
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z1_1_1024x1024.jpg?v=1491404913",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z2_1_1024x1024.jpg?v=1491404913",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z3_1_1024x1024.jpg?v=1491404913",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z4_1_1024x1024.jpg?v=1491404913"
+  ],
+  "color": "silver",
+  "totalRatings": 0,
+  "ratings": [],
+  "varriants": [],
+  "createdAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0be4064a64239fce8bed9"
+  },
+  "title": "USB SANDISK",
+  "slug": "usb-sandisk98",
+  "description": [
+    "Read Speed: up to 130 MB/s",
+    "Generation: USB 3.0",
+    "Dimensions: 13.21 mm x 42.42 mm x 6.60 mm",
+    "Operating temperature: 32° - 113°",
+    "Storage temperature: 0° - 158°",
+    "5-year limited warranty"
+  ],
+  "brand": "USB",
+  "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z4_1b6e3a93-aa84-4a15-8324-deab9b1d4711_1024x1024.jpg?v=1491404811",
+  "price": 177888,
+  "category": "Printer",
+  "quantity": 132,
+  "sold": 82,
+  "images": [
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z4_1b6e3a93-aa84-4a15-8324-deab9b1d4711_1024x1024.jpg?v=1491404811",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z5_1024x1024.jpg?v=1491404811"
+  ],
+  "color": "green",
+  "totalRatings": 0,
+  "ratings": [],
+  "varriants": [],
+  "createdAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0be4064a64239fce8bedc"
+  },
+  "title": "MOTOROLA MOTO 360 (2ND GEN)",
+  "slug": "motorola-moto-360-(2nd-gen)22",
+  "description": [
+    "Technology: No cellular connectivity",
+    "Dimensions: 46 x 46 x 11.4 mm",
+    "Weight: IPS LCD g",
+    "Display: AMOLED 1.56 inches",
+    "Resolution: 360 x 330",
+    "OS: Android Wear OS",
+    "Chipset: Snapdragon 400",
+    "CPU: Quad-core 1.2 GHz Cortex-A7",
+    "Internal: 4 GB, 512 MB RAM",
+    "Camera: No"
+  ],
+  "brand": "MOTOROLA",
+  "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/Untitled-189_1024x1024.jpg?v=1491404918",
+  "price": 8906890,
+  "category": "Printer",
+  "quantity": 40,
+  "sold": 56,
+  "images": [
+    "https://digital-world-2.myshopify.com/cdn/shop/products/Untitled-189_1024x1024.jpg?v=1491404918",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/motorola-moto-360-2015-1_1024x1024.jpg?v=1491404918",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/motorola-moto-360-2015-2_1024x1024.jpg?v=1491404918",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/motorola-moto-360-2015-3_1024x1024.jpg?v=1491404918",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/motorola-moto-360-2015-4_1024x1024.jpg?v=1491404918"
+  ],
+  "color": "BLACK LEATHER",
+  "totalRatings": 0,
+  "ratings": [],
+  "varriants": [],
+  "createdAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0be4064a64239fce8bedb"
+  },
+  "title": "SAMSUNG GEAR VR",
+  "slug": "samsung-gear-vr43",
+  "description": [
+    "Connections: USB 2.0, USB 3.0",
+    "Controls: Onboard touchpad, Bluetooth controllers",
+    "Hardware Platform: Android",
+    "Headset Type: Mobile",
+    "Resolution: 2,560 by 1,440",
+    "Sensors: Motion, presence",
+    "Platform: Samsung Gear VR powered by Oculus",
+    "Supported: Note5, Note7, S6, S6 Edge, S6 Edge+, S7, S7 Edge"
+  ],
+  "brand": "SAMSUNG",
+  "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z1_1_1024x1024.jpg?v=1491404913",
+  "price": 2519449,
+  "category": "Printer",
+  "quantity": 32,
+  "sold": 74,
+  "images": [
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z1_1_1024x1024.jpg?v=1491404913",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z2_1_1024x1024.jpg?v=1491404913",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z3_1_1024x1024.jpg?v=1491404913",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z4_1_1024x1024.jpg?v=1491404913"
+  ],
+  "color": "gray",
+  "totalRatings": 0,
+  "ratings": [],
+  "varriants": [],
+  "createdAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0be4064a64239fce8bedd"
+  },
+  "title": "LOGITECH WIRELESS KEYBOARD MK240 NANO",
+  "slug": "logitech-wireless-keyboard-mk240-nano13",
+  "description": [
+    "Dimensions: 139mm x 288mm x 21mm",
+    "Weight: 312 g",
+    "36-month battery life",
+    "Adjustable keyboard height",
+    "Spill-resistant design",
+    "2.4GHz wireless (10 meters)",
+    "Nano USB receiver",
+    "3-year Limited hardware warranty"
+  ],
+  "brand": "LOGITECH",
+  "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z6_1024x1024.jpg?v=1491404809",
+  "price": 619428,
+  "category": "Printer",
+  "quantity": 38,
+  "sold": 7,
+  "images": [],
+  "color": "green",
+  "totalRatings": 0,
+  "ratings": [],
+  "varriants": [],
+  "createdAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0be4064a64239fce8bede"
+  },
+  "title": "LOGITECH MX ANYWHERE 2",
+  "slug": "logitech-mx-anywhere-289",
+  "description": [
+    "Technology: USB port or Bluetooth",
+    "Dimensions: 61.6 x 100.3 x 1.4 mm",
+    "Weight: 106 g",
+    "Battery life: up to 2 month",
+    "Battery: rechargeable Li-Po (500 mAh)",
+    "Wireless distance: 32 ft (10 m)",
+    "Wireless technology: 2.4GHz",
+    "Sensor: Darkfield Laser sensor",
+    "1-Year Limited Hardware Warranty",
+    "Requirements: Windows® 7 to latest"
+  ],
+  "brand": "LOGITECH",
+  "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z1_377a4aa6-df39-466b-8234-d7c2f6f4ca1a_1024x1024.jpg?v=1491404814",
+  "price": 457827,
+  "category": "Printer",
+  "quantity": 44,
+  "sold": 78,
+  "images": [
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z3_5229b270-7b1c-4b40-8100-204f96c43f88_1024x1024.jpg?v=1491404814",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z1_377a4aa6-df39-466b-8234-d7c2f6f4ca1a_1024x1024.jpg?v=1491404814",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z2_2ca9a51c-540d-4bbc-8be1-88dc83ccefa1_1024x1024.jpg?v=1491404814"
+  ],
+  "color": "BLACK",
+  "totalRatings": 0,
+  "ratings": [],
+  "varriants": [],
+  "createdAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0be4064a64239fce8bedf"
+  },
+  "title": "JBL CHARGE 3",
+  "slug": "jbl-charge-361",
+  "description": [
+    "Battery type: Lithium-ion Polymer (22.2Wh)",
+    "Music playing time: up to 20h",
+    "Rated power: 2 x 10W",
+    "USB charge out: 5V / 2A",
+    "Frequency: 65Hz-20kHz",
+    "Transducer size: 2 x 50",
+    "Battery charge time: 4.5 hrs",
+    "Weight: 800g",
+    "Power supply: 5V / 2.3A"
+  ],
+  "brand": "JBL",
+  "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z2_2_1024x1024.jpg?v=1491404907",
+  "price": 3434340,
+  "category": "Printer",
+  "quantity": 46,
+  "sold": 13,
+  "images": [
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z2_2_1024x1024.jpg?v=1491404907",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z3_2_1024x1024.jpg?v=1491404907",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z4_2_1024x1024.jpg?v=1491404907"
+  ],
+  "color": "BLACK",
+  "totalRatings": 0,
+  "ratings": [],
+  "varriants": [],
+  "createdAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0be4064a64239fce8bee0"
+  },
+  "title": "APPLE WATCH EDITION SERIES 2",
+  "slug": "apple-watch-edition-series-255",
+  "description": [
+    "Technology: No cellular connectivity",
+    "Dimensions: 42.6 x 36.5 x 11.4 mm",
+    "Weight: 45.6 g",
+    "Display: AMOLED 1.6 inches",
+    "Resolution: 390 x 312",
+    "OS: watchOS 3.0",
+    "Chipset: Apple S2",
+    "CPU: Dual-core",
+    "Internal: No",
+    "Camera: No"
+  ],
+  "brand": "APPLE",
+  "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/Untitled-123_1024x1024.jpg?v=1491404922",
+  "price": 9390675,
+  "category": "Printer",
+  "quantity": 49,
+  "sold": 95,
+  "images": [
+    "https://digital-world-2.myshopify.com/cdn/shop/products/Untitled-123_1024x1024.jpg?v=1491404922",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/apple-watch2-edition-42mm2_1024x1024.jpg?v=1491404922"
+  ],
+  "color": "WHITE",
+  "totalRatings": 0,
+  "ratings": [],
+  "varriants": [],
+  "createdAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0be4064a64239fce8beee"
+  },
+  "title": "APPLE WATCH EDITION SERIES 2",
+  "slug": "apple-watch-edition-series-227",
+  "description": [
+    "Technology: No cellular connectivity",
+    "Dimensions: 42.6 x 36.5 x 11.4 mm",
+    "Weight: 45.6 g",
+    "Display: AMOLED 1.6 inches",
+    "Resolution: 390 x 312",
+    "OS: watchOS 3.0",
+    "Chipset: Apple S2",
+    "CPU: Dual-core",
+    "Internal: No",
+    "Camera: No"
+  ],
+  "brand": "APPLE",
+  "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/Untitled-123_1024x1024.jpg?v=1491404922",
+  "price": 9390675,
+  "category": "Accessories",
+  "quantity": 13,
+  "sold": 41,
+  "images": [
+    "https://digital-world-2.myshopify.com/cdn/shop/products/Untitled-123_1024x1024.jpg?v=1491404922",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/apple-watch2-edition-42mm2_1024x1024.jpg?v=1491404922"
+  ],
+  "color": "WHITE",
+  "totalRatings": 0,
+  "ratings": [],
+  "varriants": [],
+  "createdAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0be4064a64239fce8bee3"
+  },
+  "title": "SAMSUNG GEAR VR",
+  "slug": "samsung-gear-vr17",
+  "description": [
+    "Connections: USB 2.0, USB 3.0",
+    "Controls: Onboard touchpad, Bluetooth controllers",
+    "Hardware Platform: Android",
+    "Headset Type: Mobile",
+    "Resolution: 2,560 by 1,440",
+    "Sensors: Motion, presence",
+    "Platform: Samsung Gear VR powered by Oculus",
+    "Supported: Note5, Note7, S6, S6 Edge, S6 Edge+, S7, S7 Edge"
+  ],
+  "brand": "SAMSUNG",
+  "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z1_1_1024x1024.jpg?v=1491404913",
+  "price": 2519449,
+  "category": "Speaker",
+  "quantity": 36,
+  "sold": 39,
+  "images": [
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z1_1_1024x1024.jpg?v=1491404913",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z2_1_1024x1024.jpg?v=1491404913",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z3_1_1024x1024.jpg?v=1491404913",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z4_1_1024x1024.jpg?v=1491404913"
+  ],
+  "color": "gray",
+  "totalRatings": 0,
+  "ratings": [],
+  "varriants": [],
+  "createdAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0be4064a64239fce8bee4"
+  },
+  "title": "MOTOROLA MOTO 360 (2ND GEN)",
+  "slug": "motorola-moto-360-(2nd-gen)78",
+  "description": [
+    "Technology: No cellular connectivity",
+    "Dimensions: 46 x 46 x 11.4 mm",
+    "Weight: IPS LCD g",
+    "Display: AMOLED 1.56 inches",
+    "Resolution: 360 x 330",
+    "OS: Android Wear OS",
+    "Chipset: Snapdragon 400",
+    "CPU: Quad-core 1.2 GHz Cortex-A7",
+    "Internal: 4 GB, 512 MB RAM",
+    "Camera: No"
+  ],
+  "brand": "MOTOROLA",
+  "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/Untitled-189_1024x1024.jpg?v=1491404918",
+  "price": 8906890,
+  "category": "Speaker",
+  "quantity": 95,
+  "sold": 58,
+  "images": [
+    "https://digital-world-2.myshopify.com/cdn/shop/products/Untitled-189_1024x1024.jpg?v=1491404918",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/motorola-moto-360-2015-1_1024x1024.jpg?v=1491404918",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/motorola-moto-360-2015-2_1024x1024.jpg?v=1491404918",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/motorola-moto-360-2015-3_1024x1024.jpg?v=1491404918",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/motorola-moto-360-2015-4_1024x1024.jpg?v=1491404918"
+  ],
+  "color": "BLACK LEATHER",
+  "totalRatings": 0,
+  "ratings": [],
+  "varriants": [],
+  "createdAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0be4064a64239fce8bee5"
+  },
+  "title": "LOGITECH WIRELESS KEYBOARD MK240 NANO",
+  "slug": "logitech-wireless-keyboard-mk240-nano",
+  "description": [
+    "<p>Dimensions: 139mm x 288mm x 21mm,Weight: 312 g,36-month battery life,Adjustable keyboard height,Spill-resistant design,2.4GHz wireless (10 meters),Nano USB receiver,3-year Limited hardware warranty</p>"
+  ],
+  "brand": "logitech",
+  "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z6_1024x1024.jpg?v=1491404809",
+  "price": 619428,
+  "category": "Speaker",
+  "quantity": 89,
+  "sold": 40,
+  "images": [
+    "https://res.cloudinary.com/dp5c0ceg8/image/upload/v1721881574/MERN-shop24h/eh38dcmiinqhxwrvarxj.jpg",
+    "https://res.cloudinary.com/dp5c0ceg8/image/upload/v1721881574/MERN-shop24h/wlbgrea7hjjmttnvulx7.jpg",
+    "https://res.cloudinary.com/dp5c0ceg8/image/upload/v1721881574/MERN-shop24h/w99rx1qxo0vndpkppegi.jpg"
+  ],
+  "color": "silver",
+  "totalRatings": 4,
+  "ratings": [
+    {
+      "star": 4,
+      "postedBy": {
+        "$oid": "6682aab08725df464f7e5d23"
+      },
+      "comment": "very good",
+      "updatedAt": {
+        "$date": "2024-07-25T04:52:08.325Z"
+      },
+      "_id": {
+        "$oid": "66a1d9f87f0dbd7777176865"
+      }
+    }
+  ],
+  "varriants": [],
+  "createdAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T14:41:28.280Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0be4064a64239fce8bed6"
+  },
+  "title": "LOGITECH MX ANYWHERE 2",
+  "slug": "logitech-mx-anywhere-290",
+  "description": [
+    "Technology: USB port or Bluetooth",
+    "Dimensions: 61.6 x 100.3 x 1.4 mm",
+    "Weight: 106 g",
+    "Battery life: up to 2 month",
+    "Battery: rechargeable Li-Po (500 mAh)",
+    "Wireless distance: 32 ft (10 m)",
+    "Wireless technology: 2.4GHz",
+    "Sensor: Darkfield Laser sensor",
+    "1-Year Limited Hardware Warranty",
+    "Requirements: Windows® 7 to latest"
+  ],
+  "brand": "LOGITECH",
+  "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z1_377a4aa6-df39-466b-8234-d7c2f6f4ca1a_1024x1024.jpg?v=1491404814",
+  "price": 457827,
+  "category": "Camera",
+  "quantity": 38,
+  "sold": 3,
+  "images": [
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z3_5229b270-7b1c-4b40-8100-204f96c43f88_1024x1024.jpg?v=1491404814",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z1_377a4aa6-df39-466b-8234-d7c2f6f4ca1a_1024x1024.jpg?v=1491404814",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z2_2ca9a51c-540d-4bbc-8be1-88dc83ccefa1_1024x1024.jpg?v=1491404814"
+  ],
+  "color": "BLACK",
+  "totalRatings": 0,
+  "ratings": [],
+  "varriants": [],
+  "createdAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0be4064a64239fce8bed7"
+  },
+  "title": "JBL CHARGE 3",
+  "slug": "jbl-charge-347",
+  "description": [
+    "Battery type: Lithium-ion Polymer (22.2Wh)",
+    "Music playing time: up to 20h",
+    "Rated power: 2 x 10W",
+    "USB charge out: 5V / 2A",
+    "Frequency: 65Hz-20kHz",
+    "Transducer size: 2 x 50",
+    "Battery charge time: 4.5 hrs",
+    "Weight: 800g",
+    "Power supply: 5V / 2.3A"
+  ],
+  "brand": "JBL",
+  "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z2_2_1024x1024.jpg?v=1491404907",
+  "price": 3434340,
+  "category": "Camera",
+  "quantity": 78,
+  "sold": 12,
+  "images": [
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z2_2_1024x1024.jpg?v=1491404907",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z3_2_1024x1024.jpg?v=1491404907",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z4_2_1024x1024.jpg?v=1491404907"
+  ],
+  "color": "BLACK",
+  "totalRatings": 0,
+  "ratings": [],
+  "varriants": [],
+  "createdAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0be4064a64239fce8bed8"
+  },
+  "title": "APPLE WATCH EDITION SERIES 2",
+  "slug": "apple-watch-edition-series-269",
+  "description": [
+    "Technology: No cellular connectivity",
+    "Dimensions: 42.6 x 36.5 x 11.4 mm",
+    "Weight: 45.6 g",
+    "Display: AMOLED 1.6 inches",
+    "Resolution: 390 x 312",
+    "OS: watchOS 3.0",
+    "Chipset: Apple S2",
+    "CPU: Dual-core",
+    "Internal: No",
+    "Camera: No"
+  ],
+  "brand": "APPLE",
+  "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/Untitled-123_1024x1024.jpg?v=1491404922",
+  "price": 9390675,
+  "category": "Camera",
+  "quantity": 22,
+  "sold": 85,
+  "images": [
+    "https://digital-world-2.myshopify.com/cdn/shop/products/Untitled-123_1024x1024.jpg?v=1491404922",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/apple-watch2-edition-42mm2_1024x1024.jpg?v=1491404922"
+  ],
+  "color": "WHITE",
+  "totalRatings": 0,
+  "ratings": [],
+  "varriants": [],
+  "createdAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0be4064a64239fce8beea"
+  },
+  "title": "MOTOROLA MOTO 360 (2ND GEN)",
+  "slug": "motorola-moto-360-(2nd-gen)66",
+  "description": [
+    "Technology: No cellular connectivity",
+    "Dimensions: 46 x 46 x 11.4 mm",
+    "Weight: IPS LCD g",
+    "Display: AMOLED 1.56 inches",
+    "Resolution: 360 x 330",
+    "OS: Android Wear OS",
+    "Chipset: Snapdragon 400",
+    "CPU: Quad-core 1.2 GHz Cortex-A7",
+    "Internal: 4 GB, 512 MB RAM",
+    "Camera: No"
+  ],
+  "brand": "MOTOROLA",
+  "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/Untitled-189_1024x1024.jpg?v=1491404918",
+  "price": 8906890,
+  "category": "Accessories",
+  "quantity": 71,
+  "sold": 62,
+  "images": [
+    "https://digital-world-2.myshopify.com/cdn/shop/products/Untitled-189_1024x1024.jpg?v=1491404918",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/motorola-moto-360-2015-1_1024x1024.jpg?v=1491404918",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/motorola-moto-360-2015-2_1024x1024.jpg?v=1491404918",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/motorola-moto-360-2015-3_1024x1024.jpg?v=1491404918",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/motorola-moto-360-2015-4_1024x1024.jpg?v=1491404918"
+  ],
+  "color": "BLACK LEATHER",
+  "totalRatings": 0,
+  "ratings": [],
+  "varriants": [],
+  "createdAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0be4064a64239fce8bef2"
+  },
+  "title": "SENNHEISER EZX 80",
+  "slug": "sennheiser-ezx-8031",
+  "description": [
+    "Long talk time – Up to 10 hours",
+    "Tells you how it’s doing",
+    "For calls and music",
+    "Perfect iPhone partner",
+    "Charging is quick",
+    "Connects to two devices",
+    "USB charging cable",
+    "Clear as HD",
+    "Easy call control",
+    "Always in control",
+    "Peace of mind"
+  ],
+  "brand": "SENNHEISER",
+  "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z1_2_1024x1024.jpg?v=1491404910",
+  "price": 1755980,
+  "category": "Television",
+  "quantity": 76,
+  "sold": 88,
+  "images": [],
+  "color": "blue",
+  "totalRatings": 0,
+  "ratings": [],
+  "varriants": [],
+  "createdAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0be4064a64239fce8beeb"
+  },
+  "title": "LOGITECH WIRELESS KEYBOARD MK240 NANO",
+  "slug": "logitech-wireless-keyboard-mk240-nano26",
+  "description": [
+    "Dimensions: 139mm x 288mm x 21mm",
+    "Weight: 312 g",
+    "36-month battery life",
+    "Adjustable keyboard height",
+    "Spill-resistant design",
+    "2.4GHz wireless (10 meters)",
+    "Nano USB receiver",
+    "3-year Limited hardware warranty"
+  ],
+  "brand": "LOGITECH",
+  "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z6_1024x1024.jpg?v=1491404809",
+  "price": 619428,
+  "category": "Accessories",
+  "quantity": 89,
+  "sold": 81,
+  "images": [],
+  "color": "purple",
+  "totalRatings": 0,
+  "ratings": [],
+  "varriants": [],
+  "createdAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0be4064a64239fce8beec"
+  },
+  "title": "LOGITECH MX ANYWHERE 2",
+  "slug": "logitech-mx-anywhere-241",
+  "description": [
+    "Technology: USB port or Bluetooth",
+    "Dimensions: 61.6 x 100.3 x 1.4 mm",
+    "Weight: 106 g",
+    "Battery life: up to 2 month",
+    "Battery: rechargeable Li-Po (500 mAh)",
+    "Wireless distance: 32 ft (10 m)",
+    "Wireless technology: 2.4GHz",
+    "Sensor: Darkfield Laser sensor",
+    "1-Year Limited Hardware Warranty",
+    "Requirements: Windows® 7 to latest"
+  ],
+  "brand": "LOGITECH",
+  "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z1_377a4aa6-df39-466b-8234-d7c2f6f4ca1a_1024x1024.jpg?v=1491404814",
+  "price": 457827,
+  "category": "Accessories",
+  "quantity": 141,
+  "sold": 5,
+  "images": [
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z3_5229b270-7b1c-4b40-8100-204f96c43f88_1024x1024.jpg?v=1491404814",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z1_377a4aa6-df39-466b-8234-d7c2f6f4ca1a_1024x1024.jpg?v=1491404814",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z2_2ca9a51c-540d-4bbc-8be1-88dc83ccefa1_1024x1024.jpg?v=1491404814"
+  ],
+  "color": "BLACK",
+  "totalRatings": 0,
+  "ratings": [],
+  "varriants": [],
+  "createdAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0be4064a64239fce8beed"
+  },
+  "title": "JBL CHARGE 3",
+  "slug": "jbl-charge-360",
+  "description": [
+    "Battery type: Lithium-ion Polymer (22.2Wh)",
+    "Music playing time: up to 20h",
+    "Rated power: 2 x 10W",
+    "USB charge out: 5V / 2A",
+    "Frequency: 65Hz-20kHz",
+    "Transducer size: 2 x 50",
+    "Battery charge time: 4.5 hrs",
+    "Weight: 800g",
+    "Power supply: 5V / 2.3A"
+  ],
+  "brand": "JBL",
+  "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z2_2_1024x1024.jpg?v=1491404907",
+  "price": 3434340,
+  "category": "Accessories",
+  "quantity": 105,
+  "sold": 11,
+  "images": [
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z2_2_1024x1024.jpg?v=1491404907",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z3_2_1024x1024.jpg?v=1491404907",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z4_2_1024x1024.jpg?v=1491404907"
+  ],
+  "color": "BLACK",
+  "totalRatings": 0,
+  "ratings": [],
+  "varriants": [],
+  "createdAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0be4064a64239fce8bec0"
+  },
+  "title": "XIAOMI MI PAD 3",
+  "slug": "xiaomi-mi-pad-390",
+  "description": [
+    "Technology: GSM / HSPA / LTE",
+    "Dimensions: 150 x 76 x 8.7 mm",
+    "Weight: 164 g",
+    "Display: IPS LC 5.5 inches",
+    "Resolution: 1080 x 1920",
+    "OS: Android OS, v5.1.1 (Lollipop)",
+    "Chipset: Snapdragon 650",
+    "CPU: Hexa-core",
+    "Internal: 16GB/2GB - 32GB/3GB",
+    "Camera: 16 MP, f/2.0 - 5 MP, f/2.0"
+  ],
+  "brand": "XIAOMI",
+  "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/Untitled-1_1_1024x1024.jpg?v=1491404888",
+  "price": 4478767,
+  "category": "Tablet",
+  "quantity": 56,
+  "sold": 46,
+  "images": [
+    "https://digital-world-2.myshopify.com/cdn/shop/products/Untitled-1_1_1024x1024.jpg?v=1491404888",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/SS6_1024x1024.jpg?v=1491404888",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/xiaomi-redmi-note-3-1_1024x1024.jpg?v=1491404888",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/xiaomi-redmi-note-3-2_1024x1024.jpg?v=1491404888",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/xiaomi-redmi-note-3-3_1024x1024.jpg?v=1491404889"
+  ],
+  "color": "SILVER",
+  "totalRatings": 0,
+  "ratings": [],
+  "varriants": [],
+  "createdAt": {
+    "$date": "2024-07-24T08:41:36.237Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T08:41:36.237Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0be4064a64239fce8beef"
+  },
+  "title": "USB SANDISK",
+  "slug": "usb-sandisk81",
+  "description": [
+    "Read Speed: up to 130 MB/s",
+    "Generation: USB 3.0",
+    "Dimensions: 13.21 mm x 42.42 mm x 6.60 mm",
+    "Operating temperature: 32° - 113°",
+    "Storage temperature: 0° - 158°",
+    "5-year limited warranty"
+  ],
+  "brand": "USB",
+  "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z4_1b6e3a93-aa84-4a15-8324-deab9b1d4711_1024x1024.jpg?v=1491404811",
+  "price": 177888,
+  "category": "Accessories",
+  "quantity": 56,
+  "sold": 43,
+  "images": [
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z4_1b6e3a93-aa84-4a15-8324-deab9b1d4711_1024x1024.jpg?v=1491404811",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z5_1024x1024.jpg?v=1491404811"
+  ],
+  "color": "red",
+  "totalRatings": 0,
+  "ratings": [],
+  "varriants": [],
+  "createdAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0be4064a64239fce8bef0"
+  },
+  "title": "SENNHEISER EZX 80",
+  "slug": "sennheiser-ezx-8090",
+  "description": [
+    "Long talk time – Up to 10 hours",
+    "Tells you how it’s doing",
+    "For calls and music",
+    "Perfect iPhone partner",
+    "Charging is quick",
+    "Connects to two devices",
+    "USB charging cable",
+    "Clear as HD",
+    "Easy call control",
+    "Always in control",
+    "Peace of mind"
+  ],
+  "brand": "SENNHEISER",
+  "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z1_2_1024x1024.jpg?v=1491404910",
+  "price": 1755980,
+  "category": "Accessories",
+  "quantity": 129,
+  "sold": 5,
+  "images": [],
+  "color": "olive",
+  "totalRatings": 0,
+  "ratings": [],
+  "varriants": [],
+  "createdAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0be4064a64239fce8bef1"
+  },
+  "title": "USB SANDISK",
+  "slug": "usb-sandisk42",
+  "description": [
+    "Read Speed: up to 130 MB/s",
+    "Generation: USB 3.0",
+    "Dimensions: 13.21 mm x 42.42 mm x 6.60 mm",
+    "Operating temperature: 32° - 113°",
+    "Storage temperature: 0° - 158°",
+    "5-year limited warranty"
+  ],
+  "brand": "USB",
+  "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z4_1b6e3a93-aa84-4a15-8324-deab9b1d4711_1024x1024.jpg?v=1491404811",
+  "price": 177888,
+  "category": "Television",
+  "quantity": 86,
+  "sold": 58,
+  "images": [
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z4_1b6e3a93-aa84-4a15-8324-deab9b1d4711_1024x1024.jpg?v=1491404811",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z5_1024x1024.jpg?v=1491404811"
+  ],
+  "color": "green",
+  "totalRatings": 0,
+  "ratings": [],
+  "varriants": [],
+  "createdAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0be4064a64239fce8beda"
+  },
+  "title": "SENNHEISER EZX 80",
+  "slug": "sennheiser-ezx-8069",
+  "description": [
+    "Long talk time – Up to 10 hours",
+    "Tells you how it’s doing",
+    "For calls and music",
+    "Perfect iPhone partner",
+    "Charging is quick",
+    "Connects to two devices",
+    "USB charging cable",
+    "Clear as HD",
+    "Easy call control",
+    "Always in control",
+    "Peace of mind"
+  ],
+  "brand": "SENNHEISER",
+  "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z1_2_1024x1024.jpg?v=1491404910",
+  "price": 1755980,
+  "category": "Printer",
+  "quantity": 8,
+  "sold": 95,
+  "images": [],
+  "color": "cyan",
+  "totalRatings": 0,
+  "ratings": [],
+  "varriants": [],
+  "createdAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0be4064a64239fce8bef3"
+  },
+  "title": "SAMSUNG GEAR VR",
+  "slug": "samsung-gear-vr9",
+  "description": [
+    "Connections: USB 2.0, USB 3.0",
+    "Controls: Onboard touchpad, Bluetooth controllers",
+    "Hardware Platform: Android",
+    "Headset Type: Mobile",
+    "Resolution: 2,560 by 1,440",
+    "Sensors: Motion, presence",
+    "Platform: Samsung Gear VR powered by Oculus",
+    "Supported: Note5, Note7, S6, S6 Edge, S6 Edge+, S7, S7 Edge"
+  ],
+  "brand": "SAMSUNG",
+  "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z1_1_1024x1024.jpg?v=1491404913",
+  "price": 2519449,
+  "category": "Television",
+  "quantity": 104,
+  "sold": 27,
+  "images": [
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z1_1_1024x1024.jpg?v=1491404913",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z2_1_1024x1024.jpg?v=1491404913",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z3_1_1024x1024.jpg?v=1491404913",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z4_1_1024x1024.jpg?v=1491404913"
+  ],
+  "color": "cyan",
+  "totalRatings": 0,
+  "ratings": [],
+  "varriants": [],
+  "createdAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0be4064a64239fce8bef4"
+  },
+  "title": "MOTOROLA MOTO 360 (2ND GEN)",
+  "slug": "motorola-moto-360-(2nd-gen)32",
+  "description": [
+    "Technology: No cellular connectivity",
+    "Dimensions: 46 x 46 x 11.4 mm",
+    "Weight: IPS LCD g",
+    "Display: AMOLED 1.56 inches",
+    "Resolution: 360 x 330",
+    "OS: Android Wear OS",
+    "Chipset: Snapdragon 400",
+    "CPU: Quad-core 1.2 GHz Cortex-A7",
+    "Internal: 4 GB, 512 MB RAM",
+    "Camera: No"
+  ],
+  "brand": "MOTOROLA",
+  "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/Untitled-189_1024x1024.jpg?v=1491404918",
+  "price": 8906890,
+  "category": "Television",
+  "quantity": 134,
+  "sold": 57,
+  "images": [
+    "https://digital-world-2.myshopify.com/cdn/shop/products/Untitled-189_1024x1024.jpg?v=1491404918",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/motorola-moto-360-2015-1_1024x1024.jpg?v=1491404918",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/motorola-moto-360-2015-2_1024x1024.jpg?v=1491404918",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/motorola-moto-360-2015-3_1024x1024.jpg?v=1491404918",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/motorola-moto-360-2015-4_1024x1024.jpg?v=1491404918"
+  ],
+  "color": "BLACK LEATHER",
+  "totalRatings": 0,
+  "ratings": [],
+  "varriants": [],
+  "createdAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0be4064a64239fce8bef5"
+  },
+  "title": "LOGITECH WIRELESS KEYBOARD MK240 NANO",
+  "slug": "logitech-wireless-keyboard-mk240-nano8",
+  "description": [
+    "Dimensions: 139mm x 288mm x 21mm",
+    "Weight: 312 g",
+    "36-month battery life",
+    "Adjustable keyboard height",
+    "Spill-resistant design",
+    "2.4GHz wireless (10 meters)",
+    "Nano USB receiver",
+    "3-year Limited hardware warranty"
+  ],
+  "brand": "LOGITECH",
+  "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z6_1024x1024.jpg?v=1491404809",
+  "price": 619428,
+  "category": "Television",
+  "quantity": 5,
+  "sold": 81,
+  "images": [],
+  "color": "silver",
+  "totalRatings": 0,
+  "ratings": [],
+  "varriants": [],
+  "createdAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0be4064a64239fce8bef6"
+  },
+  "title": "LOGITECH MX ANYWHERE 2",
+  "slug": "logitech-mx-anywhere-219",
+  "description": [
+    "Technology: USB port or Bluetooth",
+    "Dimensions: 61.6 x 100.3 x 1.4 mm",
+    "Weight: 106 g",
+    "Battery life: up to 2 month",
+    "Battery: rechargeable Li-Po (500 mAh)",
+    "Wireless distance: 32 ft (10 m)",
+    "Wireless technology: 2.4GHz",
+    "Sensor: Darkfield Laser sensor",
+    "1-Year Limited Hardware Warranty",
+    "Requirements: Windows® 7 to latest"
+  ],
+  "brand": "LOGITECH",
+  "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z1_377a4aa6-df39-466b-8234-d7c2f6f4ca1a_1024x1024.jpg?v=1491404814",
+  "price": 457827,
+  "category": "Television",
+  "quantity": 136,
+  "sold": 50,
+  "images": [
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z3_5229b270-7b1c-4b40-8100-204f96c43f88_1024x1024.jpg?v=1491404814",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z1_377a4aa6-df39-466b-8234-d7c2f6f4ca1a_1024x1024.jpg?v=1491404814",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z2_2ca9a51c-540d-4bbc-8be1-88dc83ccefa1_1024x1024.jpg?v=1491404814"
+  ],
+  "color": "BLACK",
+  "totalRatings": 0,
+  "ratings": [],
+  "varriants": [],
+  "createdAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T13:32:39.096Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0be4064a64239fce8bef7"
+  },
+  "title": "JBL CHARGE 3",
+  "slug": "jbl-charge-392",
+  "description": [
+    "Battery type: Lithium-ion Polymer (22.2Wh)",
+    "Music playing time: up to 20h",
+    "Rated power: 2 x 10W",
+    "USB charge out: 5V / 2A",
+    "Frequency: 65Hz-20kHz",
+    "Transducer size: 2 x 50",
+    "Battery charge time: 4.5 hrs",
+    "Weight: 800g",
+    "Power supply: 5V / 2.3A"
+  ],
+  "brand": "JBL",
+  "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z2_2_1024x1024.jpg?v=1491404907",
+  "price": 3434340,
+  "category": "Television",
+  "quantity": 108,
+  "sold": 44,
+  "images": [
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z2_2_1024x1024.jpg?v=1491404907",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z3_2_1024x1024.jpg?v=1491404907",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z4_2_1024x1024.jpg?v=1491404907"
+  ],
+  "color": "BLACK",
+  "totalRatings": 0,
+  "ratings": [],
+  "varriants": [],
+  "createdAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0be4064a64239fce8bef8"
+  },
+  "title": "APPLE WATCH EDITION SERIES 2",
+  "slug": "apple-watch-edition-series-221",
+  "description": [
+    "Technology: No cellular connectivity",
+    "Dimensions: 42.6 x 36.5 x 11.4 mm",
+    "Weight: 45.6 g",
+    "Display: AMOLED 1.6 inches",
+    "Resolution: 390 x 312",
+    "OS: watchOS 3.0",
+    "Chipset: Apple S2",
+    "CPU: Dual-core",
+    "Internal: No",
+    "Camera: No"
+  ],
+  "brand": "APPLE",
+  "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/Untitled-123_1024x1024.jpg?v=1491404922",
+  "price": 9390675,
+  "category": "Television",
+  "quantity": 101,
+  "sold": 18,
+  "images": [
+    "https://digital-world-2.myshopify.com/cdn/shop/products/Untitled-123_1024x1024.jpg?v=1491404922",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/apple-watch2-edition-42mm2_1024x1024.jpg?v=1491404922"
+  ],
+  "color": "WHITE",
+  "totalRatings": 4,
+  "ratings": [
+    {
+      "star": 4,
+      "postedBy": {
+        "$oid": "669e4d2fcb42f21cca1a17ce"
+      },
+      "comment": "good",
+      "updatedAt": {
+        "$date": "2024-07-24T09:01:12.217Z"
+      },
+      "_id": {
+        "$oid": "66a0c2d864a64239fce8c288"
+      }
+    }
+  ],
+  "varriants": [],
+  "createdAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T09:01:12.261Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0be4064a64239fce8bee1"
+  },
+  "title": "USB SANDISK",
+  "slug": "usb-sandisk37",
+  "description": [
+    "Read Speed: up to 130 MB/s",
+    "Generation: USB 3.0",
+    "Dimensions: 13.21 mm x 42.42 mm x 6.60 mm",
+    "Operating temperature: 32° - 113°",
+    "Storage temperature: 0° - 158°",
+    "5-year limited warranty"
+  ],
+  "brand": "USB",
+  "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z4_1b6e3a93-aa84-4a15-8324-deab9b1d4711_1024x1024.jpg?v=1491404811",
+  "price": 177888,
+  "category": "Speaker",
+  "quantity": 140,
+  "sold": 55,
+  "images": [
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z4_1b6e3a93-aa84-4a15-8324-deab9b1d4711_1024x1024.jpg?v=1491404811",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z5_1024x1024.jpg?v=1491404811"
+  ],
+  "color": "olive",
+  "totalRatings": 0,
+  "ratings": [],
+  "varriants": [],
+  "createdAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T03:50:58.635Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0be4064a64239fce8bee2"
+  },
+  "title": "SENNHEISER EZX 80",
+  "slug": "sennheiser-ezx-8035",
+  "description": [
+    "Long talk time – Up to 10 hours",
+    "Tells you how it’s doing",
+    "For calls and music",
+    "Perfect iPhone partner",
+    "Charging is quick",
+    "Connects to two devices",
+    "USB charging cable",
+    "Clear as HD",
+    "Easy call control",
+    "Always in control",
+    "Peace of mind"
+  ],
+  "brand": "SENNHEISER",
+  "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z1_2_1024x1024.jpg?v=1491404910",
+  "price": 1755980,
+  "category": "Speaker",
+  "quantity": 22,
+  "sold": 75,
+  "images": [],
+  "color": "black",
+  "totalRatings": 0,
+  "ratings": [],
+  "varriants": [],
+  "createdAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T08:41:36.238Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0be4064a64239fce8beba"
+  },
+  "title": "SAMSUNG GALAXY S7",
+  "slug": "samsung-galaxy-s756",
+  "description": [
+    "Technology: GSM / CDMA / HSPA / EVDO / LTE",
+    "Dimensions: 142.4 x 69.6 x 7.9 mm",
+    "Weight: 152 g",
+    "Display: Super AMOLED 5.1 inches",
+    "Resolution: 1440 x 2560",
+    "OS: Android 6.0 (Marshmallow)",
+    "Chipset: Exynos 8890",
+    "CPU: Quad-core",
+    "Internal: 32 GB, 4 GB RAM",
+    "Camera: 112 MP - 5 MP"
+  ],
+  "brand": "SAMSUNG",
+  "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/samsung-galaxy-s7-and-s7-edge-unveiled-with-refined-design-performance-boost-500729-4_1024x1024.jpg?v=1491404832",
+  "price": 22878636,
+  "category": "Smartphone",
+  "quantity": 12,
+  "sold": 4,
+  "images": [
+    "https://digital-world-2.myshopify.com/cdn/shop/products/samsung-galaxy-s7-and-s7-edge-unveiled-with-refined-design-performance-boost-500729-4_1024x1024.jpg?v=1491404832",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/samsung_galaxys7_heroCard_foreground_1024x1024.png?v=1491404832",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/samsung-galaxy-s6_1024x1024.png?v=1491404832",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/samsung-galaxy-s6-edge-plus-black-sapphire-spin.0001_1024x1024.png?v=1491404832"
+  ],
+  "color": "yellow",
+  "totalRatings": 0,
+  "ratings": [],
+  "varriants": [],
+  "createdAt": {
+    "$date": "2024-07-24T08:41:36.237Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T08:41:36.237Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0be4064a64239fce8beb7"
+  },
+  "title": "XIAOMI MI 5",
+  "slug": "xiaomi-mi-532",
+  "description": [
+    "Technology: GSM / HSPA / LTE",
+    "Dimensions: 144.6 x 69.2 x 7.3 mm",
+    "Weight: 129 g",
+    "Display: IPS LCD 5.15 inches",
+    "Resolution: 1080 x 1920",
+    "OS: Android OS, v6.0 (Marshmallow)",
+    "Chipset: Snapdragon 820",
+    "CPU: Quad-core",
+    "Internal: 32GB/64GB/128GB",
+    "Camera: 16 MP, f/2.0 - 4 MP, f/2.0"
+  ],
+  "brand": "XIAOMI",
+  "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/z4_1024x1024.jpg?v=1491404851",
+  "price": 7761940,
+  "category": "Smartphone",
+  "quantity": 27,
+  "sold": 99,
+  "images": [
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z4_1024x1024.jpg?v=1491404851",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z1_1024x1024.jpg?v=1491404851",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z2_1024x1024.jpg?v=1491404851",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/z3_1024x1024.jpg?v=1491404851"
+  ],
+  "color": "BLACK",
+  "totalRatings": 2,
+  "ratings": [
+    {
+      "star": 2,
+      "postedBy": {
+        "$oid": "6682aab08725df464f7e5d23"
+      },
+      "comment": "bad",
+      "updatedAt": {
+        "$date": "2024-07-25T13:11:38.848Z"
+      },
+      "_id": {
+        "$oid": "66a24f0a195931e1288bc49d"
+      }
+    }
+  ],
+  "varriants": [],
+  "createdAt": {
+    "$date": "2024-07-24T08:41:36.237Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T14:48:28.303Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0be4064a64239fce8bebb"
+  },
+  "title": "SAMSUNG GALAXY J7 PRIME",
+  "slug": "samsung-galaxy-j7-prime51",
+  "description": [
+    "Technology: GSM / HSPA / LTE",
+    "Dimensions: 151.7 x 75 x 8 mm",
+    "Weight: 167 g",
+    "Display: PLS TFT 5.5 inches",
+    "Resolution: 1080 x 1920",
+    "OS: Android OS, v6.0.1 (Marshmallow)",
+    "Chipset: Exynos 7870 Octa",
+    "CPU: 1.6 GHz Cortex-A53",
+    "Internal: 16/32 GB, 3 GB RAM",
+    "Camera: 13 MP, f/1.9 - 8 MP, f/1.9"
+  ],
+  "brand": "SAMSUNG",
+  "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/Untitled-1_1024x1024.jpg?v=1491404895",
+  "price": 10626478,
+  "category": "Smartphone",
+  "quantity": 149,
+  "sold": 48,
+  "images": [
+    "https://digital-world-2.myshopify.com/cdn/shop/products/Untitled-1_1024x1024.jpg?v=1491404895",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/samsung-galaxy-j7-prime-1_1024x1024.jpg?v=1491404895",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/samsung-galaxy-j7-prime-2_1024x1024.jpg?v=1491404895",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/samsung-galaxy-j7-prime-3_1024x1024.jpg?v=1491404895"
+  ],
+  "color": "BLACK",
+  "totalRatings": 0,
+  "ratings": [],
+  "varriants": [],
+  "createdAt": {
+    "$date": "2024-07-24T08:41:36.237Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T08:41:36.237Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0be4064a64239fce8beb8"
+  },
+  "title": "VIVO V5",
+  "slug": "vivo-v50",
+  "description": [
+    "Technology: GSM / HSPA / LTE",
+    "Dimensions: 153.8 x 75.5 x 7.6 mm",
+    "Weight: 154 g",
+    "Display: IPS LCD 5.5 inches",
+    "Resolution: 720 x 1280",
+    "OS: Android OS, v6.0 (Marshmallow)",
+    "Chipset: Octa-core",
+    "CPU: Octa-core",
+    "Internal: 32 GB, 4 GB RAM",
+    "Camera: 13MB - 20 MP"
+  ],
+  "brand": "VIVO",
+  "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/Untitled-1_31cc1c0e-ac34-4c8e-946a-a5e30acf6b1a_1024x1024.jpg?v=1491404855",
+  "price": 6362246,
+  "category": "Smartphone",
+  "quantity": 53,
+  "sold": 77,
+  "images": [
+    "https://digital-world-2.myshopify.com/cdn/shop/products/Untitled-1_31cc1c0e-ac34-4c8e-946a-a5e30acf6b1a_1024x1024.jpg?v=1491404855",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/vivo-v5-1_1024x1024.jpg?v=1491404855",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/vivo-v5-2_1024x1024.jpg?v=1491404855"
+  ],
+  "color": "GOLD",
+  "totalRatings": 0,
+  "ratings": [],
+  "varriants": [],
+  "createdAt": {
+    "$date": "2024-07-24T08:41:36.237Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T08:41:36.237Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0be4064a64239fce8bebd"
+  },
+  "title": "IPHONE 7",
+  "slug": "iphone-791",
+  "description": [
+    "Technology: GSM / CDMA / HSPA / EVDO / LTE",
+    "Dimensions: 138.3 x 67.1 x 7.1 mm",
+    "Weight: 138 g",
+    "Display: LED-backlit IPS LCD 4.7\"",
+    "Resolution: 1334 x 750",
+    "OS: iOS 10",
+    "Chipset: Apple A10 Fusion",
+    "CPU: Quad-core",
+    "Internal: 32/128 GB, 2 GB RAM",
+    "Camera: 12 MP - 7 MP"
+  ],
+  "brand": "IPHONE",
+  "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/iphone_1024x1024.jpg?v=1491404827",
+  "price": 22878636,
+  "category": "Smartphone",
+  "quantity": 84,
+  "sold": 73,
+  "images": [
+    "https://digital-world-2.myshopify.com/cdn/shop/products/iphone_1024x1024.jpg?v=1491404827",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/1_83bd7ced-da1e-4701-afac-cc3c61ea1a51_1024x1024.jpg?v=1491404827",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/2_1024x1024.jpg?v=1491404827",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/3_1024x1024.jpg?v=1491404827",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/4_1024x1024.jpg?v=1491404827"
+  ],
+  "color": "BLACK",
+  "totalRatings": 3,
+  "ratings": [
+    {
+      "star": 3,
+      "postedBy": {
+        "$oid": "669e4d2fcb42f21cca1a17ce"
+      },
+      "comment": "normal",
+      "updatedAt": {
+        "$date": "2024-07-24T09:01:49.530Z"
+      },
+      "_id": {
+        "$oid": "66a0c2fd64a64239fce8c2c1"
+      }
+    }
+  ],
+  "varriants": [],
+  "createdAt": {
+    "$date": "2024-07-24T08:41:36.237Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T09:01:49.540Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0be4064a64239fce8bebe"
+  },
+  "title": "HTC 10",
+  "slug": "htc-1066",
+  "description": [
+    "Technology: GSM / CDMA / HSPA / LTE",
+    "Dimensions: 145.9 x 71.9 x 9 mm",
+    "Weight: 161 g",
+    "Display: Super LCD5 5.2 inches",
+    "Resolution: 1440 x 2560",
+    "OS: Android OS, v6.0.1 (Marshmallow)",
+    "Chipset: Snapdragon 820",
+    "CPU: Quad-core",
+    "Internal: 32/64 GB, 4 GB RAM",
+    "Camera: 12 MP, f/1.8 - 5 MP, f/1.8"
+  ],
+  "brand": "HTC",
+  "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/HTC-10-1_1024x1024.jpg?v=1491404875",
+  "price": 13157125,
+  "category": "Smartphone",
+  "quantity": 45,
+  "sold": 48,
+  "images": [
+    "https://digital-world-2.myshopify.com/cdn/shop/products/HTC-10-1_1024x1024.jpg?v=1491404875",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/htc-10-5_1024x1024.jpg?v=1491404875",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/htc-10-r_1024x1024.jpg?v=1491404875"
+  ],
+  "color": "CARBON GRAY",
+  "totalRatings": 0,
+  "ratings": [],
+  "varriants": [],
+  "createdAt": {
+    "$date": "2024-07-24T08:41:36.237Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T08:41:36.237Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0be4064a64239fce8beb9"
+  },
+  "title": "SONY XPERIA XA",
+  "slug": "sony-xperia-xa60",
+  "description": [
+    "Technology: GSM / HSPA / LTE",
+    "Dimensions: 146 x 72 x 8.1 mm",
+    "Weight: 161 g",
+    "Display: IPS LCD 5.2 inches",
+    "Resolution: 1080 x 1920",
+    "OS: Android OS, v6.0.1 (Marshmallow)",
+    "Chipset: Snapdragon 820",
+    "CPU: Quad-core",
+    "Internal: 32/64 GB",
+    "Camera: 23 MP, f/2.0 - 13 MP, f/2.0"
+  ],
+  "brand": "SONY",
+  "thumb": "https://digital-world-2.myshopify.com/cdn/shop/products/xperia-xa-white-D1-hero-image-35f68ba1669ba23b989e7519e4a1660d_1024x1024.jpg?v=1491404881",
+  "price": 18017880,
+  "category": "Smartphone",
+  "quantity": 30,
+  "sold": 9,
+  "images": [
+    "https://digital-world-2.myshopify.com/cdn/shop/products/xperia-xa-white-D1-hero-image-35f68ba1669ba23b989e7519e4a1660d_1024x1024.jpg?v=1491404881",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/sony-xperia-xz_1024x1024.jpg?v=1491404881",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/gsmarena_015_1024x1024.jpg?v=1491404881",
+    "https://digital-world-2.myshopify.com/cdn/shop/products/sony-xperia-xz1_1024x1024.jpg?v=1491404881"
+  ],
+  "color": "MINERAL BLACK",
+  "totalRatings": 0,
+  "ratings": [],
+  "varriants": [],
+  "createdAt": {
+    "$date": "2024-07-24T08:41:36.237Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T08:41:36.237Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a1e8eb7f0dbd7777176910"
+  },
+  "title": "test 1",
+  "slug": "test-1",
+  "description": [
+    "<p>Test 1</p>"
+  ],
+  "brand": "Samsung",
+  "thumb": "https://res.cloudinary.com/dp5c0ceg8/image/upload/v1721886955/MERN-shop24h/uc3ai1vstvvyhmxmnlt6.webp",
+  "price": 200000,
+  "category": "Tablet",
+  "quantity": 8,
+  "sold": 4,
+  "images": [
+    "https://res.cloudinary.com/dp5c0ceg8/image/upload/v1721886955/MERN-shop24h/hvzay06ahfumaydgxvkx.webp",
+    "https://res.cloudinary.com/dp5c0ceg8/image/upload/v1721886955/MERN-shop24h/wco5vqtfdoaih8gjwrju.webp",
+    "https://res.cloudinary.com/dp5c0ceg8/image/upload/v1721886955/MERN-shop24h/z8dhz4e8fvvrcogptcef.webp"
+  ],
+  "color": "GOLD",
+  "totalRatings": 4,
+  "ratings": [
+    {
+      "star": 4,
+      "postedBy": {
+        "$oid": "6682aab08725df464f7e5d23"
+      },
+      "comment": "good",
+      "updatedAt": {
+        "$date": "2024-07-25T14:29:55.245Z"
+      },
+      "_id": {
+        "$oid": "66a26163195931e1288bcc9b"
+      }
+    }
+  ],
+  "varriants": [
+    {
+      "color": "BLACK",
+      "price": 300000,
+      "thumb": "https://res.cloudinary.com/dp5c0ceg8/image/upload/v1721886995/MERN-shop24h/o3cfehvbxytotimbng8h.webp",
+      "images": [
+        "https://res.cloudinary.com/dp5c0ceg8/image/upload/v1721886995/MERN-shop24h/fwrbu7wwfgogayoh2w4l.webp",
+        "https://res.cloudinary.com/dp5c0ceg8/image/upload/v1721886995/MERN-shop24h/s04qasohffv6j5frguod.jpg",
+        "https://res.cloudinary.com/dp5c0ceg8/image/upload/v1721886995/MERN-shop24h/xfjuvsral5tdbaxne0xi.jpg"
+      ],
+      "title": "test 1",
+      "sku": "4W0A4T31JLZ0V25FH",
+      "_id": {
+        "$oid": "66a1e9147f0dbd7777176918"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-07-25T05:55:55.833Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T14:29:55.258Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a26337195931e1288bce83"
+  },
+  "title": "test product 2",
+  "slug": "test-product-2",
+  "description": [
+    "<p>test 1</p>"
+  ],
+  "brand": "Headphone",
+  "thumb": "https://res.cloudinary.com/dp5c0ceg8/image/upload/v1721918259/MERN-shop24h/vvwxifie0nh48dq8fv2n.jpg",
+  "price": 1550000,
+  "category": "Accessories",
+  "quantity": 20,
+  "sold": 0,
+  "images": [
+    "https://res.cloudinary.com/dp5c0ceg8/image/upload/v1721918256/MERN-shop24h/d4hvtzedkalucfg3x5jk.webp",
+    "https://res.cloudinary.com/dp5c0ceg8/image/upload/v1721918262/MERN-shop24h/qtuiwv07yamzouoli0nr.jpg",
+    "https://res.cloudinary.com/dp5c0ceg8/image/upload/v1721918258/MERN-shop24h/yg2ssbnypzdbdwuxy7ox.jpg"
+  ],
+  "color": "GOLD",
+  "totalRatings": 0,
+  "ratings": [],
+  "varriants": [
+    {
+      "color": "BLACK",
+      "price": 200000,
+      "thumb": "https://res.cloudinary.com/dp5c0ceg8/image/upload/v1721918317/MERN-shop24h/r6qls5ifqpapd74uxvid.jpg",
+      "images": [
+        "https://res.cloudinary.com/dp5c0ceg8/image/upload/v1721918310/MERN-shop24h/hrrrauvfzfmtsw0ntnpl.jpg",
+        "https://res.cloudinary.com/dp5c0ceg8/image/upload/v1721918310/MERN-shop24h/ontoxftqanhlfljjjs6d.jpg",
+        "https://res.cloudinary.com/dp5c0ceg8/image/upload/v1721918310/MERN-shop24h/melarb0y0vv5i4jmznm5.jpg"
+      ],
+      "title": "test product 2",
+      "sku": "4W0A4TZ3LZ1DPHCZ",
+      "_id": {
+        "$oid": "66a2636d195931e1288bce8e"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-07-25T14:37:43.467Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T14:38:37.860Z"
+  },
+  "__v": 0
+}]
