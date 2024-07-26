@@ -1,0 +1,68 @@
+exports.users = [
+  {
+    email: "testuser6@gmail.com",
+    password: "123456",
+    firstname: "Hach6",
+    lastname: "John",
+    mobile: "0908915900",
+    address: "10 Nguyen Dinh Chieu",
+    ward: "Phường Đa Kao",
+    district: "Quận 1",
+    city: "Thành Phố Hồ Chí Minh",
+  },
+  {
+    email: "testuser7@gmail.com",
+    password: "123456",
+    firstname: "Hach7",
+    lastname: "John",
+    mobile: "0908915908",
+    address: "10 Nguyen Dinh Chieu",
+    ward: "Phường Đa Kao",
+    district: "Quận 1",
+    city: "Thành Phố Hồ Chí Minh",
+  },
+  {
+    email: "testuser8@gmail.com",
+    password: "123456",
+    firstname: "Hach8",
+    lastname: "John",
+    mobile: "0908915909",
+    address: "10 Nguyen Dinh Chieu",
+    ward: "Phường Đa Kao",
+    district: "Quận 1",
+    city: "Thành Phố Hồ Chí Minh",
+  },
+  {
+    email: "testuser9@gmail.com",
+    password: "123456",
+    firstname: "Hach9",
+    lastname: "John",
+    mobile: "0908915911",
+    address: "10 Nguyen Dinh Chieu",
+    ward: "Phường Đa Kao",
+    district: "Quận 1",
+    city: "Thành Phố Hồ Chí Minh",
+  },
+  {
+    email: "testuser10@gmail.com",
+    password: "123456",
+    firstname: "Hach10",
+    lastname: "John",
+    mobile: "0908915912",
+    address: "10 Nguyen Dinh Chieu",
+    ward: "Phường Đa Kao",
+    district: "Quận 1",
+    city: "Thành Phố Hồ Chí Minh",
+  },
+];
+
+exports.roles = [
+  {
+    code: 1988,
+    value: "Admin",
+  },
+  {
+    code: 1997,
+    value: "User",
+  },
+];

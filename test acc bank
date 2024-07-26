@@ -1,0 +1,25 @@
+4111111111111111
+NGUYEN VAN A
+01/25
+123
+
+9704540000000047
+NGUYEN VAN A
+1018
+
+
+Reset password: the latest link, old link will be token error
+Same password error
+
+Coupon: expriry
+
+Add product: check added or not
+
+Scenario demo:
+
+1. Sigin/login/reset password
+2. Test user order/coupon/payment/rating/wishlish
+3. Admin function
+4. Test quantity update order
+5. Address lay tu api
+

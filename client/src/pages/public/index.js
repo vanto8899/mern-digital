@@ -1,0 +1,11 @@
+export { default as HomePage } from "./HomePage";
+export { default as LoginPage } from "./LoginPage";
+export { default as PublicPage } from "./PublicPage";
+export { default as ProductPage } from "./ProductPage";
+export { default as DetailProductPage } from "./DetailProductPage";
+export { default as BlogPage } from "./BlogPage";
+export { default as ServicePage } from "./ServicePage";
+export { default as FAQPage } from "./FAQPage";
+export { default as CompleteRegister } from "./CompleteRegister";
+export { default as ResetPassword } from "./ResetPassword";
+export { default as CategoryProductPage } from "./CategoryProductPage";

@@ -1,0 +1,11 @@
+###
+POST http://localhost:8000/api/insert/
+
+###
+
+POST http://localhost:8000/api/insert/category
+
+###
+
+POST http://localhost:8000/api/user/mock
+

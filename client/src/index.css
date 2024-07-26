@@ -1,0 +1,134 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+/* css slider */
+.custom-slider button.slick-next  {
+ top: 150px;
+ right: 70px;
+ z-index: 10;
+}
+
+.custom-slider button.slick-prev {
+    top: 150px;
+    left: 10px;
+    z-index: 10;
+   }
+
+.custom-slider button.slick-next::before {
+    color: gray;
+    content: '\276F';
+    background-color: #ee9e9e;
+    width: 80px;
+    height: 80px;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.custom-slider button.slick-prev::before {
+    color: gray;
+    content: '\276E';
+    background-color: #ee9e9e;
+    width: 80px;
+    height: 80px;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/* css slider small */
+.images-slider button.slick-next  {
+    top: 55px;
+    right: 20px;
+    z-index: 10;
+   }
+   
+.images-slider button.slick-prev {
+       top: 55px;
+       left: 0px;
+       z-index: 10;
+      }
+   
+.images-slider button.slick-next::before {
+       color: gray;
+       content: '\276F';
+       background-color: #1c20ff;
+       width: 40px;
+       height: 40px;
+       font-size: 30px;
+       display: flex;
+       justify-content: center;
+       align-items: center;
+   }
+   
+.images-slider button.slick-prev::before {
+       color: gray;
+       content: '\276E';
+       background-color: #1c20ff;
+       width: 40px;
+       height: 40px;
+       font-size: 30px;
+       display: flex;
+       justify-content: center;
+       align-items: center;
+   }
+
+input {
+    appearance: none;
+   }
+
+   /* Mansory css */
+.my-masonry-grid {
+    display: flex;
+    margin-right: -24px;
+    width: auto;
+}
+.my-masonry-grid_column {
+    background-clip: padding-box;
+}
+
+/* Style your items */
+.my-masonry-grid_column > div {
+    margin-bottom: 20px;
+}
+
+.w500 {
+    width: 360px;
+}
+.w300 {
+    width: 450px;
+    padding: 15px;
+}
+code{
+    white-space: initial;
+}
+
+/* paypal */
+
+.spinner {
+    width: 50px;
+    height: 50px;
+    border: 5px solid lightgray;
+    border-top-color: gray;
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+}
+
+/* progress bar */
+.hide-buttons {
+    display: none;
+}
+@media (max-width: 768px) {
+    .label-xs {
+      font-size: 10px !important;
+    }
+  }
